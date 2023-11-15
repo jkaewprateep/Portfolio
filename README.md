@@ -31,6 +31,10 @@ Working with data, coding, software environments and working platforms both Linu
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/007.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/009.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/010.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/13.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/14.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/11.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/12.jpg?raw=true "Title")
 
 ## Certificates ##
 * IBM Data Science
