@@ -44,6 +44,7 @@ Working with data, coding, software environments and working platforms both Linu
 * IBM AI Engineering
 * IBM Applied DevOps Engineering
 * Google Project Management: Professional Certificate
+* Google Data Analytics Specialization
 * Google Advanced Data Analytics Specialization
 * Google IT Automation with Python
 * Google Cybersecurity Specialization
