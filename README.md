@@ -48,7 +48,7 @@ Working with data, coding, software environments and working platforms both Linu
 * Google Advanced Data Analytics Specialization
 * Google IT Automation with Python
 * Google Cybersecurity Specialization
-* * Google UX Design Specialization
+* Google UX Design Specialization
 * Google Business Intelligence Specialization
 * Google IT Support Specialization
 * Meta Back-End Developer Professional Certificate
