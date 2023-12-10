@@ -51,7 +51,9 @@ Working with data, coding, software environments and working platforms both Linu
 | PSI | Custom reports for UCCX and UCCX Contact center support. |
 | Power Buy | Custom reports for UCCX and UCCX Contact center support. |
 | Internal Createlcom Project | Developed web dialer integrated with CUCM for support of internal projects. |
-| Bangkok Airways | Supporting for Cisco EIM and recording (Verint), Custom reports for EIM, and Cisco Contact Center (Crystal Report), UCCX IVR integra􀆟on with customer member search system and develop Web service for query customer member database and Create custom Windows service to auto-login Verint client integrated with AD |
+| Bangkok Airways | Supporting for Cisco EIM and recording (Verint), Custom reports for EIM, and Cisco Contact Center (Crystal Report), UCCX IVR integration with customer member search system and developing Web service for query customer member database and create custom Windows service to auto-login Verint client integrated with AD. |
+| BMW leasing Thailand | Custom IVR and Reports using Crystal report, Integra􀆟on with HEAT CRM, Upgrade contact center and Dashboard. |
+| DMAP (Toyota smart G-book) | Implementing IP-Telephony and Contact-Center, Develop and implementing web interface, integrated with e-Toyota web service, Develop dashboard for UCCX (Self-developed writien in C#), Develop web popup to integrate with Toyota Road side assistance for locate customer and display to agent and Implementing Cisco WFM for call recording and Screen recording. |
 
 ## Activities ##
 | Activity name | Description    | Type    |
