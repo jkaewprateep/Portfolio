@@ -46,7 +46,12 @@ Working with data, coding, software environments and working platforms both Linu
 | UIH | Contact center software and hardware requirements and implementation IVR, dashboard, and clients. Prototype SIP communication over WAN and NAS |
 | Tokio Marine Srimuang insurance | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, FOIP, email integrations, and clients. |
 | CGD, The Comptroller General's Department | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, and clients. |
-| CIBC Bank | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, FXS, Nortel, Microsoft communication, and Forge PABX integrations and clients. Create small web pop up application base on ASP.net for small contact center, POC on integration with Microso􀅌 Dynamic CRM. |
+| CIBC Bank | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, FXS, Nortel, Microsoft communication, and Forge PABX integrations and clients. Create small web pop-up application based on ASP.net for small contact center, POC on integration with Microso􀅌 Dynamic CRM. |
+| Mitsiam (Transcosmos) | Upgrade and maintain contact- center and IP- Telephony system. Outbound dialer. |
+| PSI | Custom reports for UCCX and UCCX Contact center support. |
+| Power Buy | Custom reports for UCCX and UCCX Contact center support. |
+| Internal Createlcom Project | Developed web dialer integrated with CUCM for support of internal projects. |
+| Bangkok Airways | Supporting for Cisco EIM and recording (Verint), Custom reports for EIM, and Cisco Contact Center (Crystal Report), UCCX IVR integra􀆟on with customer member search system and develop Web service for query customer member database and Create custom Windows service to auto-login Verint client integrated with AD |
 
 ## Activities ##
 | Activity name | Description    | Type    |
