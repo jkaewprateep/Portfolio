@@ -36,6 +36,15 @@ Working with data, coding, software environments and working platforms both Linu
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/11.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/12.jpg?raw=true "Title")
 
+
+## Activities ##
+| Activity name | Description    | Type    |
+| :---:   | :---: | :---: |
+| Asian Games 13th | Open ceremony performance actor   | Asian community interactions   |
+| Tsunami Shelters activity | Working activity   | Diaster reliefs and community interactions    |
+| Robocup Competitions | Working activity   | Technology project and community interactions   |
+| Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions   |
+
 ## Certificates ##
 * IBM Data Science
 * IBM Data Analyst Professional Certificate
