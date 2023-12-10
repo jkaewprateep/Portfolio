@@ -36,6 +36,17 @@ Working with data, coding, software environments and working platforms both Linu
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/11.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/12.jpg?raw=true "Title")
 
+## Projects ##
+| Project name  | Description   |
+| ------------- | ------------- |
+| G.E. Money    | IT daily operations for financial services such as credit cards, personal loans, house loans, registered products, promotion,s dealers list callback, external product, home pro and related products, data-center, and room controls. |
+| Student loan fund organization | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, and clients. |
+| Pioneer Hybrid | Enterprise PABX software and customization, local phone integration with designer programming. |
+| ThaiRe insurance | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, and clients. Testing call API features and integrated with Aspect PABX |
+| UIH | Contact center software and hardware requirements and implementation IVR, dashboard, and clients. Prototype SIP communication over WAN and NAS |
+| Tokio Marine Srimuang insurance | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, FOIP, email integrations, and clients. |
+| CGD, The Comptroller General's Department | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, and clients. |
+| CIBC Bank | Contact center software and hardware requirements and implementation, integrations CRM with COM API, Crystal reports customization, IVR, recording, dashboard, FXS, Nortel, Microsoft communication, and Forge PABX integrations and clients. Create small web pop up application base on ASP.net for small contact center, POC on integration with Microso􀅌 Dynamic CRM. |
 
 ## Activities ##
 | Activity name | Description    | Type    |
