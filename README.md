@@ -91,3 +91,16 @@ Working with data, coding, software environments and working platforms both Linu
 * Google IT Support Specialization
 * Meta Back-End Developer Professional Certificate
 * DeepLearning.AI TensorFlow Developer
+
+## HackerRank ##
+* Java (Basic)
+* Problem Solving (Basic)
+* Python (Basic)
+* R (Basic)
+* SQL (Basic)
+* SQL (Intermediate)
+* SQL (Advance)
+* REST API (Immediate)
+
+## Publication ##
+* IEEE Evalua􀆟on of Small-Scale Deep Learning Architectures in Thai Speech Recogni􀆟on, using deep-learning for speech recogni􀆟on task.
