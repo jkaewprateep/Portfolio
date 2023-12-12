@@ -104,3 +104,31 @@ Working with data, coding, software environments and working platforms both Linu
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task.
+
+## Testing ##
+
+### CTI - Dailer ###
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/15.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/16.jpg?raw=true "Title")
+
+### Free Graph Visualization API ###
+
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/17.jpg?raw=true "Title")
+
+### Message Queue ###
+
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/18.jpg?raw=true "Title")
+
+### Line API  ###
+
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/19.jpg?raw=true "Title")
+
+### Platform APIs ###
+
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/20.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/21.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/22.jpg?raw=true "Title")
+
+## During answers questions StackOverflow top-most ranks 200 ##
+
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/24.jpg?raw=true "Title")
