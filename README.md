@@ -103,4 +103,4 @@ Working with data, coding, software environments and working platforms both Linu
 * REST API (Immediate)
 
 ## Publication ##
-* IEEE Evalua􀆟on of Small-Scale Deep Learning Architectures in Thai Speech Recogni􀆟on, using deep-learning for speech recogni􀆟on task.
+* IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task.
