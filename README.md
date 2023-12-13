@@ -75,12 +75,15 @@ Working with data, coding, software environments and working platforms both Linu
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions   |
 
 ## Certificates ##
+### IBM Certificates set ###
 * IBM Data Science
 * IBM Data Analyst Professional Certificate
 * IBM Data Science Fundamentals with Python and SQL
 * IBM Data Analytics with Excel and R Specialization
 * IBM AI Engineering
 * IBM Applied DevOps Engineering
+  
+### Google Professional Certificates set ###
 * Google Project Management: Professional Certificate
 * Google Data Analytics Specialization
 * Google Advanced Data Analytics Specialization
@@ -89,10 +92,12 @@ Working with data, coding, software environments and working platforms both Linu
 * Google UX Design Specialization
 * Google Business Intelligence Specialization
 * Google IT Support Specialization
+
+### Developer certificates set ###  
 * Meta Back-End Developer Professional Certificate
 * DeepLearning.AI TensorFlow Developer
 
-## HackerRank ##
+### HackerRank ###
 * Java (Basic)
 * Problem Solving (Basic)
 * Python (Basic)
