@@ -76,6 +76,7 @@ Working with data, coding, software environments and working platforms both Linu
 
 ## Certificates ##
 ### IBM Certificates set ###
+🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
 * IBM Data Science
 * IBM Data Analyst Professional Certificate
 * IBM Data Science Fundamentals with Python and SQL
@@ -84,6 +85,7 @@ Working with data, coding, software environments and working platforms both Linu
 * IBM Applied DevOps Engineering
   
 ### Google Professional Certificates set ###
+🥺💬 Thank you True Academy - Coursera scholarship.
 * Google Project Management: Professional Certificate
 * Google Data Analytics Specialization
 * Google Advanced Data Analytics Specialization
