@@ -140,6 +140,9 @@ Working with data, coding, software environments and working platforms both Linu
 
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20170712.png?raw=true "Title")
 [Link](https://github.com/jkaewprateep/LittleLemonAPI)
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20171618.png?raw=true "Title")
+[Link](https://github.com/jkaewprateep/devops-capstone-project)
+
 
 
 
