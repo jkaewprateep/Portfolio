@@ -130,6 +130,7 @@ Working with data, coding, software environments and working platforms both Linu
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20164016.png?raw=true "Title")
 
 ## Examples of Document works in IBM Professional Courses ##
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20164016.png?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20164016.png?raw=true "Title")
+
 
 
