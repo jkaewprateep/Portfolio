@@ -84,7 +84,7 @@ Working with data, coding, software environments and working platforms both Linu
 * IBM AI Engineering
 * IBM Applied DevOps Engineering
   
-### Google Professional Certificates set ###
+### Google Professional Certificates set 🔷🔷🔷 complete set 🔷🔷🔷 ###
 🥺💬 Thank you True Academy - Coursera scholarship.
 * Google Project Management: Professional Certificate
 * Google Data Analytics Specialization
@@ -93,6 +93,7 @@ Working with data, coding, software environments and working platforms both Linu
 * Google Cybersecurity Specialization
 * Google UX Design Specialization
 * Google Business Intelligence Specialization
+* Google Digital Marketing & E-commerce
 * Google IT Support Specialization
 
 ### Developer certificates set ###  
