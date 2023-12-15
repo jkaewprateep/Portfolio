@@ -86,7 +86,7 @@ Working with data, coding, software environments and working platforms both Linu
   
 ### Google Professional Certificates set 🔷🔷🔷 complete set 🔷🔷🔷 ###
 🥺💬 Thank you True Academy - Coursera scholarship.
-* Google Project Management: Professional Certificate
+* Google Project Management: Professional Certificate ( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c )
 * Google Data Analytics Specialization
 * Google Advanced Data Analytics Specialization
 * Google IT Automation with Python
