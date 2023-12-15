@@ -157,7 +157,7 @@ Working with data, coding, software environments and working platforms both Linu
 
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/object_detection.jpg?raw=true "Title")
 
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/009.jpg?raw=true "Title")  <br />
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/encoding.jpg?raw=true "Title")  <br />
 
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/11.jpg?raw=true "Title")
 
