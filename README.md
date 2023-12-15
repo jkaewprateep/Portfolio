@@ -143,15 +143,25 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 ## SAMPLE OF APPLICATIONS – IIS webservices, Migrate Tomcat to IBM WebSphere, Javascripts, Online payment application, user object configuration xml, LINE Card API, Statistics message communication and hobbies answers questions on StackOverflow about AI machine learning, Tensorflow, and programming. ##
 Working with data, coding, software environments and working platforms both Linux and Windows as displayed in the picture and designed tools such as LINE card API.
 
+<br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/001.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/002.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/003.jpg?raw=true "Title")
+</br>
+<br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/005.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/006.jpg?raw=true "Title")
+</br>
+<br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/007.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/009.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/010.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/13.jpg?raw=true "Title")
+</br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/14.jpg?raw=true "Title")
+<br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/11.jpg?raw=true "Title")
+</br>
+<br>
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/12.jpg?raw=true "Title")
+</br>
