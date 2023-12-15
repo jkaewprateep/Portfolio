@@ -28,7 +28,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 <br>[![Inline function object location](https://github.com/jkaewprateep/Portfolio/blob/main/inline_function_objectlocation.jpg)](https://www.youtube.com/watch?v=YI26wIO-2oo)
 [![value distribution](https://github.com/jkaewprateep/Portfolio/blob/main/value_distribution.jpg)](https://www.youtube.com/watch?v=j2I08IuHdYk)
-[![Command compression](https://github.com/jkaewprateep/Portfolio/blob/main/compress_command_small.jpg)](https://www.youtube.com/watch?v=LunUmEL2tJo)
+[![ngrams](https://github.com/jkaewprateep/Portfolio/blob/main/ngrams_small.jpg)](https://www.youtube.com/watch?v=9a378gVCcB4)
 [![Fractional math](https://github.com/jkaewprateep/Portfolio/blob/main/frantional_math_small.jpg)](https://www.youtube.com/watch?v=2YoSO9TQ03g)</br>
 
 ## Projects ##
