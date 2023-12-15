@@ -77,41 +77,41 @@ Working with data, coding, software environments and working platforms both Linu
 ## Certificates ##
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
-* IBM Data Science
-* IBM Data Analyst Professional Certificate
-* IBM Data Science Fundamentals with Python and SQL
-* IBM Data Analytics with Excel and R Specialization
-* IBM AI Engineering
-* IBM Applied DevOps Engineering
+* IBM Data Science ( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b )
+* IBM Data Analyst Professional Certificate ( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 )
+* IBM Data Science Fundamentals with Python and SQL ( https://coursera.org/share/9337522810d0d175124145361c1d0ffe )
+* IBM Data Analytics with Excel and R Specialization ( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 )
+* IBM AI Engineering ( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e )
+* IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a )
   
 ### Google Professional Certificates set 🔷🔷🔷 complete set 🔷🔷🔷 ###
 🥺💬 Thank you True Academy - Coursera scholarship.
 * Google Project Management: Professional Certificate ( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c )
-* Google Data Analytics Specialization
-* Google Advanced Data Analytics Specialization
-* Google IT Automation with Python
-* Google Cybersecurity Specialization
-* Google UX Design Specialization
-* Google Business Intelligence Specialization
-* Google Digital Marketing & E-commerce
-* Google IT Support Specialization
+* Google Data Analytics Specialization ( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 )
+* Google Advanced Data Analytics Specialization ( https://coursera.org/share/57da7e3513113927b5a73d88b6358475 )
+* Google IT Automation with Python ( https://coursera.org/share/4ce05eb064193ff87071baedb37f1c9e )
+* Google Cybersecurity Specialization ( https://coursera.org/share/8474ada2c0215a99f181ae1f078f3bfb )
+* Google UX Design Specialization ( https://coursera.org/share/15f48b13d33cefb8686c2bcca579d6a8 )
+* Google Business Intelligence Specialization ( https://coursera.org/share/4c62b008846078ee7a06bfc3ffc2b8ae )
+* Google Digital Marketing & E-commerce ( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 )
+* Google IT Support Specialization ( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 )
 
 ### Developer certificates set ###  
-* Meta Back-End Developer Professional Certificate
-* DeepLearning.AI TensorFlow Developer
+* Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc )
+* DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 )
 
 ### HackerRank ###
-* Java (Basic)
-* Problem Solving (Basic)
-* Python (Basic)
-* R (Basic)
-* SQL (Basic)
-* SQL (Intermediate)
-* SQL (Advance)
-* REST API (Immediate)
+* Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c )
+* Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad )
+* Python (Basic) ( https://www.hackerrank.com/certificates/e063e97d9d72 )
+* R (Basic) ( https://www.hackerrank.com/certificates/9554f8fcbe36 )
+* SQL (Basic) ( https://www.hackerrank.com/certificates/bd7a00b7e48c )
+* SQL (Intermediate) ( https://www.hackerrank.com/certificates/4f05f8fc9385 )
+* SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 )
+* REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f )
 
 ## Publication ##
-* IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task.
+* IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
