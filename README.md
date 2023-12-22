@@ -107,6 +107,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
+* StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep )
  
 ## Learning materials reviews ##
 * IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md )
