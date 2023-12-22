@@ -105,6 +105,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 )
 * REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f )
 
+### LinkedIn ###
+* Learning Data Analytics: 1 Foundations ( https://www.linkedin.com/learning/certificates/0de7bb31adbe8e6f40a79e7ecbf05f71665dbb8f2e6f0d82b4b921f1e63438d6 )
+
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
 * StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep )
