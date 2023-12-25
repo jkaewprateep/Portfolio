@@ -107,7 +107,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ### LinkedIn ###
 * Learning Data Analytics: 1 Foundations ( https://www.linkedin.com/learning/certificates/0de7bb31adbe8e6f40a79e7ecbf05f71665dbb8f2e6f0d82b4b921f1e63438d6 )
-* Programming Foundations: Beyond the Fundamentals ( https://www.linkedin.com/learning/certificates/10724c2438433de24fd8c25064053cc717b7a6841c769af434d874f6dbccb617 )
+* Career Essentials in Software Development by Microsoft and LinkedIn ( https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c )
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
