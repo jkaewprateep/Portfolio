@@ -107,12 +107,13 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ### LinkedIn ###
 * Learning Data Analytics: 1 Foundations ( https://www.linkedin.com/learning/certificates/0de7bb31adbe8e6f40a79e7ecbf05f71665dbb8f2e6f0d82b4b921f1e63438d6 )
+* Programming Foundations: Beyond the Fundamentals ( https://www.linkedin.com/learning/certificates/10724c2438433de24fd8c25064053cc717b7a6841c769af434d874f6dbccb617 )
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
 * StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep )
  
-## Learning materials reviews ##
+## Learning materials reviews ( my reviews and explanation ) ##
 * IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md )
  
 ## Examples of Document works in Google Professional Courses ##
