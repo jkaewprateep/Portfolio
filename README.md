@@ -5,7 +5,7 @@ Initial Portfolio for a sample of work with the design of both data communicatio
 The dashboard is an instant requirement from customer TOYOTA-DMAP as a prototype of tracking user applications and the response of agent communication at the command center, this tool is created for free with a short time to implement all project requirements in one week and monitor controls. Tools are built using the newest APIs from Microsoft at the time Microsoft Chart to display and interaction designed with data communications from Cisco Unified databases, TAPI API, and customer representation response with satellite tracking.
 
 ### -	CISCO INFORMIX DATABASE VISUALIZING USE MICROSOFT CHART – TOYOTA DMAP ###
-### -	TAPI API COMMUNICAT AND CAD DATABASE USING IBM INFORMIX DATA DAPTOR ###
+### -	TAPI API COMMUNICAT AND CAD DATABASE USING IBM INFORMIX DATA ADAPTOR ###
 ### -	CUSTOMER DESIGNS ###
 
 
