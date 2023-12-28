@@ -1,7 +1,7 @@
 # Portfolio
 Initial Portfolio for a sample of work with the design of both data communication and visualization, display are from coding and designed with customers on free tools with online and local database and API communication for real-time statistics and stages messages. There are more applications working in Crytal reports, online courses, IBM Cognos, and similar, Report tools but they are all repeats and designed by products. This portfolio displays my own codes and UX-UI-designed skills with coding migrations from Tomcat to IBM WebSphere, Statistics server communication for data designs that will use customer display templates, or my own design later.
 
-## SAMPLE OF APPLICATIONS – FREE DASHBOARD FROM CISCO CONTACT CENTER DATABASE ##
+## SAMPLE OF APPLICATIONS – FREE DASHBOARD FOR CISCO CONTACT CENTER DATABASE ##
 The dashboard is an instant requirement from customer TOYOTA-DMAP as a prototype of tracking user applications and the response of agent communication at the command center, this tool is created for free with a short time to implement all project requirements in one week and monitor controls. Tools are built using the newest APIs from Microsoft at the time Microsoft Chart to display and interaction designed with data communications from Cisco Unified databases, TAPI API, and customer representation response with satellite tracking.
 
 ### -	CISCO INFORMIX DATABASE VISUALIZING USE MICROSOFT CHART – TOYOTA DMAP ###
