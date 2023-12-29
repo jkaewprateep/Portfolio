@@ -124,6 +124,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [LinkedIn](https://www.linkedin.com/learning/certificates/6d5f09df256800f7af60fdb9365c2bd2c4bc8a618b17940a3927739c74a8510e) |
 [CPE and QAS](https://www.linkedin.com/learning/certificates/a64246fa9412098ff0ef8ddd2f8db1e89c953c282369ae311d6cd29452fcb53b) |
 [PMI](https://www.linkedin.com/learning/certificates/e1d71ffa6da6ebae5a55861c4f6916251a286932d8995b90460337707a44324e)
+* Project Management Foundations: Budgets PMT
+[LinkedIn](https://www.linkedin.com/learning/certificates/4a2675039740c2fd30b2ee5637e5bc31cbe4a3377bed4382ae4e8f627eff316f) |
+[PMI](https://www.linkedin.com/learning/certificates/95c53ed174cde9b9dde295a327de4356f0cbafe32cbd3db7d34fc85b8f55aa35)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
