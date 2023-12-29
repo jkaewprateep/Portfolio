@@ -111,27 +111,27 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Career Essentials in Software Development by Microsoft and LinkedIn [LinkedIn](https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c)
 * Project Management Foundations CPE, QAS and PMI
 [LinkedIn](https://www.linkedin.com/learning/certificates/f53b604dfeb021aa1ea035491f45e972b93adc11c77dbe1ae8e494524a4b6b27) |
-[CPE and QAS](https://www.linkedin.com/learning/certificates/94dd3b5998c0f852469d126914dea12591b3f4d761c26337d90ec995dae4c69c) |
+[NASBA](https://www.linkedin.com/learning/certificates/94dd3b5998c0f852469d126914dea12591b3f4d761c26337d90ec995dae4c69c) |
 [PMI](https://www.linkedin.com/learning/certificates/d97a0704fd9eb5e476f9e9f0a010758a4f9f4c95a6b21cc276b1f1f8f8dfc1b6)
 * Project Management Foundations: Ethics PMI
 [LinkedIn](https://www.linkedin.com/learning/certificates/4618b312b80fdd3ccbc467ba2c6ea97aee5dfbd310facd0ea5f077d586746146) |
 [PMI](https://www.linkedin.com/learning/certificates/6328baa2733844df4a0adeabdcbff42170bcf7f0d8e050b8e20de6a679a89664)
 * Project Management Foundations: Requirements CPE, QAS and PMI
 [LinkedIn](https://www.linkedin.com/learning/certificates/6c1eca488c0fb7ef16e469bfd205607c978c6defe8602aa6e1fbc5024fb2c531) |
-[CPE and QAS](https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48) |
+[NASBA](https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48) |
 [PMI](https://www.linkedin.com/learning/certificates/075be95dfa5c224b125fef5660ccc8814feb2722225297c569124cc657676e79)
 * Project Management Foundations: Schedules CPE, QAS and PMI 
 [LinkedIn](https://www.linkedin.com/learning/certificates/6d5f09df256800f7af60fdb9365c2bd2c4bc8a618b17940a3927739c74a8510e) |
-[CPE and QAS](https://www.linkedin.com/learning/certificates/a64246fa9412098ff0ef8ddd2f8db1e89c953c282369ae311d6cd29452fcb53b) |
+[NASBA](https://www.linkedin.com/learning/certificates/a64246fa9412098ff0ef8ddd2f8db1e89c953c282369ae311d6cd29452fcb53b) |
 [PMI](https://www.linkedin.com/learning/certificates/e1d71ffa6da6ebae5a55861c4f6916251a286932d8995b90460337707a44324e)
 * Project Management Foundations: Budgets PMT
 [LinkedIn](https://www.linkedin.com/learning/certificates/4a2675039740c2fd30b2ee5637e5bc31cbe4a3377bed4382ae4e8f627eff316f) |
 [PMI](https://www.linkedin.com/learning/certificates/95c53ed174cde9b9dde295a327de4356f0cbafe32cbd3db7d34fc85b8f55aa35)
 * Project Management Foundations: Teams CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/5cede24cf57a718cb5c7951a438fa874cea4ca8ea28967065dab4dfd8ea69253) |
-[CPE and QAS](https://www.linkedin.com/learning/certificates/d0b626290216debb3c7c47629abc9fa186c14ef6e04e05d84700c428a5322544) |
+[NASBA](https://www.linkedin.com/learning/certificates/d0b626290216debb3c7c47629abc9fa186c14ef6e04e05d84700c428a5322544) |
 [PMI](https://www.linkedin.com/learning/certificates/a2205331c9f6cd19bd6d62565e8c1d611bbc8beb037104321960c280a92d95c0)
 * Project Management Foundations: Communication CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/a1b8e07e9e1c42e9543e2f947d87834637abea8d98ae3a865b8e9476af379408) |
-[CPE and QAS](https://www.linkedin.com/learning/certificates/69ef2b394f23dcec2f56a316480b43c709382556ebdbb43a23d113178495ac2f) |
+[NASBA](https://www.linkedin.com/learning/certificates/69ef2b394f23dcec2f56a316480b43c709382556ebdbb43a23d113178495ac2f) |
 [PMI](https://www.linkedin.com/learning/certificates/5da1d657e48951db7a9e39d3a67b3d3e4bd1b67b5afd72677190a5e5ba53d9dd)
 * Project Management Foundations: Risk NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/c9f43fa9d1510ce16aaab6cf5914fc76a6a7b8fd8b844240c2f5792837569c37) |
 [NASBA](https://www.linkedin.com/learning/certificates/6ae2135143b58fcc9bcf97b186e47c4c5a3167cc9bfae7e4f20c041b6b1f0783) |
