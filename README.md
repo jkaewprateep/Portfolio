@@ -127,8 +127,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Project Management Foundations: Budgets PMT
 [LinkedIn](https://www.linkedin.com/learning/certificates/4a2675039740c2fd30b2ee5637e5bc31cbe4a3377bed4382ae4e8f627eff316f) |
 [PMI](https://www.linkedin.com/learning/certificates/95c53ed174cde9b9dde295a327de4356f0cbafe32cbd3db7d34fc85b8f55aa35)
-* Project Management Foundations: Teams CPE, QAS and PMI
-* [LinkedIn](https://www.linkedin.com/learning/certificates/5cede24cf57a718cb5c7951a438fa874cea4ca8ea28967065dab4dfd8ea69253) |
+* Project Management Foundations: Teams CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/5cede24cf57a718cb5c7951a438fa874cea4ca8ea28967065dab4dfd8ea69253) |
 [CPE and QAS](https://www.linkedin.com/learning/certificates/d0b626290216debb3c7c47629abc9fa186c14ef6e04e05d84700c428a5322544) |
 [PMI](https://www.linkedin.com/learning/certificates/a2205331c9f6cd19bd6d62565e8c1d611bbc8beb037104321960c280a92d95c0)
 
