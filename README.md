@@ -109,9 +109,21 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 🥺💬 Thank you LinkedIn for one month free trials
 * Career Essentials in Data Analysis by Microsoft and LinkedIn ( https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94 )
 * Career Essentials in Software Development by Microsoft and LinkedIn ( https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c )
-* Project Management Foundations CPE, QAS and PMI ( https://www.linkedin.com/learning/certificates/f53b604dfeb021aa1ea035491f45e972b93adc11c77dbe1ae8e494524a4b6b27, https://www.linkedin.com/learning/certificates/94dd3b5998c0f852469d126914dea12591b3f4d761c26337d90ec995dae4c69c, https://www.linkedin.com/learning/certificates/d97a0704fd9eb5e476f9e9f0a010758a4f9f4c95a6b21cc276b1f1f8f8dfc1b6 )
-* Project Management Foundations: Ethics PMI ( https://www.linkedin.com/learning/certificates/4618b312b80fdd3ccbc467ba2c6ea97aee5dfbd310facd0ea5f077d586746146, https://www.linkedin.com/learning/certificates/6328baa2733844df4a0adeabdcbff42170bcf7f0d8e050b8e20de6a679a89664 )
-* Project Management Foundations: Requirements CPE, QAS and PMI ( https://www.linkedin.com/learning/certificates/6c1eca488c0fb7ef16e469bfd205607c978c6defe8602aa6e1fbc5024fb2c531, https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48, https://www.linkedin.com/learning/certificates/075be95dfa5c224b125fef5660ccc8814feb2722225297c569124cc657676e79 )
+* Project Management Foundations CPE, QAS and PMI
+[LinkedIn](https://www.linkedin.com/learning/certificates/f53b604dfeb021aa1ea035491f45e972b93adc11c77dbe1ae8e494524a4b6b27)
+[CPE and QAS](https://www.linkedin.com/learning/certificates/94dd3b5998c0f852469d126914dea12591b3f4d761c26337d90ec995dae4c69c)
+[PMI](https://www.linkedin.com/learning/certificates/d97a0704fd9eb5e476f9e9f0a010758a4f9f4c95a6b21cc276b1f1f8f8dfc1b6)
+* Project Management Foundations: Ethics PMI
+[LinkedIn](https://www.linkedin.com/learning/certificates/4618b312b80fdd3ccbc467ba2c6ea97aee5dfbd310facd0ea5f077d586746146)
+[PMI](https://www.linkedin.com/learning/certificates/6328baa2733844df4a0adeabdcbff42170bcf7f0d8e050b8e20de6a679a89664)
+* Project Management Foundations: Requirements CPE, QAS and PMI
+[LinkedIn](https://www.linkedin.com/learning/certificates/6c1eca488c0fb7ef16e469bfd205607c978c6defe8602aa6e1fbc5024fb2c531)
+[CPE and QAS](https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48)
+[PMI](https://www.linkedin.com/learning/certificates/075be95dfa5c224b125fef5660ccc8814feb2722225297c569124cc657676e79)
+* Project Management Foundations: Schedules CPE, QAS and PMI 
+[LinkedIn](https://www.linkedin.com/learning/certificates/6d5f09df256800f7af60fdb9365c2bd2c4bc8a618b17940a3927739c74a8510e)
+[CPE and QAS](https://www.linkedin.com/learning/certificates/a64246fa9412098ff0ef8ddd2f8db1e89c953c282369ae311d6cd29452fcb53b)
+[PMI](https://www.linkedin.com/learning/certificates/e1d71ffa6da6ebae5a55861c4f6916251a286932d8995b90460337707a44324e)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
