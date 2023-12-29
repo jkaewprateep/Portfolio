@@ -136,6 +136,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Project Management Foundations: Risk NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/c9f43fa9d1510ce16aaab6cf5914fc76a6a7b8fd8b844240c2f5792837569c37) |
 [NASBA](https://www.linkedin.com/learning/certificates/6ae2135143b58fcc9bcf97b186e47c4c5a3167cc9bfae7e4f20c041b6b1f0783) |
 [PMI](https://www.linkedin.com/learning/certificates/f80b6fb56262bce4196ad6aa93ac8011a56a486eab8d2d984df2485926bd94dd)
+* Managing Project Stakeholders NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/c4e1635ebf4e0ef61e1f55e8378ce1089cfa4c76b1eb08a190eb64ad6d39e0bf) |
+[NASBA](https://www.linkedin.com/learning/certificates/5028911e0f0bccadd0abf7f58fa732f7890f226ec97483b9f60a9fd7b74f3bd8) |
+[PMI](https://www.linkedin.com/learning/certificates/e789ec7b6e53882e79f826b8ef4ec017fc7de811139804db42a9d373b05c2636)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
