@@ -130,6 +130,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Project Management Foundations: Teams CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/5cede24cf57a718cb5c7951a438fa874cea4ca8ea28967065dab4dfd8ea69253) |
 [CPE and QAS](https://www.linkedin.com/learning/certificates/d0b626290216debb3c7c47629abc9fa186c14ef6e04e05d84700c428a5322544) |
 [PMI](https://www.linkedin.com/learning/certificates/a2205331c9f6cd19bd6d62565e8c1d611bbc8beb037104321960c280a92d95c0)
+* Project Management Foundations: Communication CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/a1b8e07e9e1c42e9543e2f947d87834637abea8d98ae3a865b8e9476af379408) |
+[CPE and QAS](https://www.linkedin.com/learning/certificates/69ef2b394f23dcec2f56a316480b43c709382556ebdbb43a23d113178495ac2f) |
+[PMI](https://www.linkedin.com/learning/certificates/5da1d657e48951db7a9e39d3a67b3d3e4bd1b67b5afd72677190a5e5ba53d9dd)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
