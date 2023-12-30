@@ -109,6 +109,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 🥺💬 Thank you LinkedIn for one month free trials
 * Career Essentials in Data Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94)
 * Career Essentials in Software Development by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c)
+* Career Essentials in System Administration by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3c1d608a2017f9f04655d56a91a13772259205bcce8ef85ff03402c36c19d289)
 * Career Essentials in Project Management by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/c0ac835b5fc055fef4d7f1092cbcf2d9b126e23ab0771d5ee4a21db8e112f799)
 
     * Project Management Foundations CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/f53b604dfeb021aa1ea035491f45e972b93adc11c77dbe1ae8e494524a4b6b27) |
