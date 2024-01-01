@@ -143,6 +143,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
 * Administrative Professional Foundations [LinkedIn](https://www.linkedin.com/learning/certificates/267131cce753fce0e1eaa5d5b6e543d30b40553807909e81b85975fa93875d15)
 * Administrative Professional Tips [LinkedIn](https://www.linkedin.com/learning/certificates/ff42fa9a527e979e544d6fc377e57af5e7d09a2020202c0050f5179dcbfe4b65)
+* Communication Foundations (2018) NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/1bdcbf5ca6b28e92480a04c2bca03fa746d28d58b81f13717c75aa53104f4447) |
+[NASBA](https://www.linkedin.com/learning/certificates/10f7e7c7f5f974d3bc4a4185465e114d5bae64d20e362a0d0654a479dad1718f) |
+[PMI](https://www.linkedin.com/learning/certificates/6ecb9d0a0a64b39b454afc32fb49152e3103a1c45146f47a1c94d35fbb648b5e)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
