@@ -141,11 +141,15 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Managing Projects with Microsoft 365 PMI [LinkedIn](https://www.linkedin.com/learning/certificates/a238a5c5b02ebf9d9d5c812bf072defa0ba63e5165e9474c33611ba092527967) |
 [PMI](https://www.linkedin.com/learning/certificates/d47bfdd72c87c65d1fe2933be107979ba6a5258717ce46f754539e2beb2d24ec)
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
-* Administrative Professional Foundations [LinkedIn](https://www.linkedin.com/learning/certificates/267131cce753fce0e1eaa5d5b6e543d30b40553807909e81b85975fa93875d15)
-* Administrative Professional Tips [LinkedIn](https://www.linkedin.com/learning/certificates/ff42fa9a527e979e544d6fc377e57af5e7d09a2020202c0050f5179dcbfe4b65)
-* Communication Foundations (2018) NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/1bdcbf5ca6b28e92480a04c2bca03fa746d28d58b81f13717c75aa53104f4447) |
+* Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+    * Administrative Professional Foundations [LinkedIn](https://www.linkedin.com/learning/certificates/267131cce753fce0e1eaa5d5b6e543d30b40553807909e81b85975fa93875d15)
+    * Administrative Professional Tips [LinkedIn](https://www.linkedin.com/learning/certificates/ff42fa9a527e979e544d6fc377e57af5e7d09a2020202c0050f5179dcbfe4b65)
+    * Communication Foundations (2018) NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/1bdcbf5ca6b28e92480a04c2bca03fa746d28d58b81f13717c75aa53104f4447) |
 [NASBA](https://www.linkedin.com/learning/certificates/10f7e7c7f5f974d3bc4a4185465e114d5bae64d20e362a0d0654a479dad1718f) |
 [PMI](https://www.linkedin.com/learning/certificates/6ecb9d0a0a64b39b454afc32fb49152e3103a1c45146f47a1c94d35fbb648b5e)
+    * Getting Started with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/1421eaad491194736e4e5970cfe7084c6b974bc92fe0b103dd52f2a3be1813e5)
+    * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
+    * Collaborating with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/58deced54a32d7a826716ca2083e77d03b76476f76307801ed5dafdd7b53a597)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
