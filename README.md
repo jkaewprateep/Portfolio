@@ -150,6 +150,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Getting Started with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/1421eaad491194736e4e5970cfe7084c6b974bc92fe0b103dd52f2a3be1813e5)
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
     * Collaborating with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/58deced54a32d7a826716ca2083e77d03b76476f76307801ed5dafdd7b53a597)
+    * Tips for Writing Business Emails [LinkedIn](https://www.linkedin.com/learning/certificates/cef7742e06a867bb8bd8ba8d8aad88d6a8e0310b337d033b2181b29c760c58c1)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
