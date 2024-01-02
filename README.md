@@ -151,9 +151,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
     * Collaborating with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/58deced54a32d7a826716ca2083e77d03b76476f76307801ed5dafdd7b53a597)
     * Tips for Writing Business Emails [LinkedIn](https://www.linkedin.com/learning/certificates/cef7742e06a867bb8bd8ba8d8aad88d6a8e0310b337d033b2181b29c760c58c1)
-    * Time Management Fundamentals NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/fcd7a5c34f98e4b0857c8fe6f1ac51464b9552102bb85f28b544019fa53a777f) |
-[NASBA](https://www.linkedin.com/learning/certificates/90ac78a1bb84cdfa1436b0922c2410f409877ddedd0d4927915c79325a700e44) |
+    * Time Management Fundamentals NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/fcd7a5c34f98e4b0857c8fe6f1ac51464b9552102bb85f28b544019fa53a777f) | [NASBA](https://www.linkedin.com/learning/certificates/90ac78a1bb84cdfa1436b0922c2410f409877ddedd0d4927915c79325a700e44) |
 [PMI](https://www.linkedin.com/learning/certificates/0ac97c961a1389a5fe09dc300544a2d9aad24d1d7deb86f79e6229c8816f9049)
+    * Note-Taking for Business Professionals PMI [LinkedIn](https://www.linkedin.com/learning/certificates/769037302ff0283a78e1f979fe07a3833e2f5f4369cbe6e14276c101c28a0e27) | [PMI](https://www.linkedin.com/learning/certificates/c0b21d3e72b9e593052cc43784380607a1c4d3963061c5a863987766325d1b74)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
