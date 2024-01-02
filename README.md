@@ -142,7 +142,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [PMI](https://www.linkedin.com/learning/certificates/d47bfdd72c87c65d1fe2933be107979ba6a5258717ce46f754539e2beb2d24ec)
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
 
-* Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/c0ac835b5fc055fef4d7f1092cbcf2d9b126e23ab0771d5ee4a21db8e112f799)
+* Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/41910d8f5afb6e8f6031f3d79953087ecf497962b4d320f63b0a7a402ba04515)
 
     * Administrative Professional Foundations [LinkedIn](https://www.linkedin.com/learning/certificates/267131cce753fce0e1eaa5d5b6e543d30b40553807909e81b85975fa93875d15)
     * Administrative Professional Tips [LinkedIn](https://www.linkedin.com/learning/certificates/ff42fa9a527e979e544d6fc377e57af5e7d09a2020202c0050f5179dcbfe4b65)
