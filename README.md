@@ -141,7 +141,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Managing Projects with Microsoft 365 PMI [LinkedIn](https://www.linkedin.com/learning/certificates/a238a5c5b02ebf9d9d5c812bf072defa0ba63e5165e9474c33611ba092527967) |
 [PMI](https://www.linkedin.com/learning/certificates/d47bfdd72c87c65d1fe2933be107979ba6a5258717ce46f754539e2beb2d24ec)
     * Optimizing Your Work with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/35b64eead2a90845a5a8043fe941e946f1f9f9852ec8dfa1996d45f2fb49a3bc)
-* Career Essentials in Administrative Assistance by Microsoft and LinkedIn
+
+* Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/c0ac835b5fc055fef4d7f1092cbcf2d9b126e23ab0771d5ee4a21db8e112f799)
+
     * Administrative Professional Foundations [LinkedIn](https://www.linkedin.com/learning/certificates/267131cce753fce0e1eaa5d5b6e543d30b40553807909e81b85975fa93875d15)
     * Administrative Professional Tips [LinkedIn](https://www.linkedin.com/learning/certificates/ff42fa9a527e979e544d6fc377e57af5e7d09a2020202c0050f5179dcbfe4b65)
     * Communication Foundations (2018) NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/1bdcbf5ca6b28e92480a04c2bca03fa746d28d58b81f13717c75aa53104f4447) |
