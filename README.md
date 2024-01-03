@@ -158,8 +158,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Note-Taking for Business Professionals PMI [LinkedIn](https://www.linkedin.com/learning/certificates/769037302ff0283a78e1f979fe07a3833e2f5f4369cbe6e14276c101c28a0e27) | [PMI](https://www.linkedin.com/learning/certificates/c0b21d3e72b9e593052cc43784380607a1c4d3963061c5a863987766325d1b74)
 
 * Career Essentials in Business Analysis by Microsoft and LinkedIn
-    * What Is Business Analysis? IIBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/9e49f031cdf6a0f35cdbf5effe0866cf55402ef50eab10d7e10ab685f01128d9) |
-[IIBA](https://www.linkedin.com/learning/certificates/8db2eaec559bb8f8aba7b3e24affaa0189f6472671b8b7d9a9b751e130e862e3) |
+    * What Is Business Analysis? IIBA and PMI [IIBA](https://www.linkedin.com/learning/certificates/9e49f031cdf6a0f35cdbf5effe0866cf55402ef50eab10d7e10ab685f01128d9) |
+[LinkedIn](https://www.linkedin.com/learning/certificates/8db2eaec559bb8f8aba7b3e24affaa0189f6472671b8b7d9a9b751e130e862e3) |
 [PMI](https://www.linkedin.com/learning/certificates/51d17699274b55592a6032725d31793524d93cd06238a34f28d441936f678b6f)
 
 ## Publication ##
