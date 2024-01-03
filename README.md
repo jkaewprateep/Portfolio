@@ -161,6 +161,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * What Is Business Analysis? IIBA and PMI [IIBA](https://www.linkedin.com/learning/certificates/9e49f031cdf6a0f35cdbf5effe0866cf55402ef50eab10d7e10ab685f01128d9) |
 [LinkedIn](https://www.linkedin.com/learning/certificates/8db2eaec559bb8f8aba7b3e24affaa0189f6472671b8b7d9a9b751e130e862e3) |
 [PMI](https://www.linkedin.com/learning/certificates/51d17699274b55592a6032725d31793524d93cd06238a34f28d441936f678b6f)
+    * Business Analysis Foundations IIBA, NASBA and PMI [IIBA](https://www.linkedin.com/learning/certificates/9cbf6e980f84820afd3279642980e163bb35596f7cf73b908e652b1bbc741966) |
+[LinkedIn](https://www.linkedin.com/learning/certificates/ce03a9d02cc0d7b6f2e06e4ff545b5452ba4f14575ce6ea1fcd1bebfa7f33c95) |
+[NASBA](https://www.linkedin.com/learning/certificates/c5947027d57b29ca65eeae94aca20b74ebf2f89613b3c8acb57dc4bb999bda07) |
+[PMI](https://www.linkedin.com/learning/certificates/fc79113a5331ac1b3d6fd3d62407228d44da6f9ef16a40e0d35b4a2fa298f891)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
