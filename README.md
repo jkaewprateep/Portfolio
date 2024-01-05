@@ -175,6 +175,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [LinkedIn](https://www.linkedin.com/learning/certificates/a51f23109c216ba615ac15639a57d93ea51f063a4650aae22e0a0a37344d4397) |
 [NASBA](https://www.linkedin.com/learning/certificates/3424b8c17201cf317f9fe279e6fb77cc142e6e789b05e9181ac46c8f8029b7be) |
 [PMI](https://www.linkedin.com/learning/certificates/d186403a378ccce3db74cda7fb1c20da706fab950f6cb57de1008e5d3c4dc647)
+    * Business Analysis Foundations: Business Process Modeling IIBA and PMI [IIBA](https://www.linkedin.com/learning/certificates/87581dea36f13d6462a2455db35e7f5a50bf4bd4dd394ee1c261730bb192eed6) |
+[LinkedIn](https://www.linkedin.com/learning/certificates/12ce6e242a7f84949f585472c81a7bf1c2733752528466ec361b2477b0e63c8a) |
+[PMI](https://www.linkedin.com/learning/certificates/0835f7b03f1338cc2e3306440aee0566ea280076a95aa8c334e0e427ec857674)
+
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
