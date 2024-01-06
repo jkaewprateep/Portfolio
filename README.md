@@ -196,6 +196,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 * Career Essentials in Generative AI by Microsoft and LinkedIn
     * What Is Generative AI? [LinkedIn](https://www.linkedin.com/learning/certificates/eeaad0929219b984774ce29dcb1cd9fa367e12cc8ae0745984ad1c216f259d1f)
+    * Generative AI: The Evolution of Thoughtful Online Search [LinkedIn](https://www.linkedin.com/learning/certificates/cdf6a5501a83a8f56d8708ab39fe0eebca940c66aa20e136a42b93cefea88d3a)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
