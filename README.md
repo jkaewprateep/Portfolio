@@ -186,6 +186,11 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [LinkedIn](https://www.linkedin.com/learning/certificates/96fef5c13215b2ec862725e41abac3861bd63463fee9875e5141e87ef66a75a9) |
 [NASBA](https://www.linkedin.com/learning/certificates/3560582e7cc5c5aba2c9d47f4a57aca2cee0d401d3e637e5ad1e45f90d4936a9) |
 [PMI](https://www.linkedin.com/learning/certificates/73bdc8db502d282470d5b7cdd8cfddf6b310d0c1cdf7fb677259292cf36ec776)
+    * Managing Projects with Microsoft 365 PMI [LinkedIn](https://www.linkedin.com/learning/certificates/a238a5c5b02ebf9d9d5c812bf072defa0ba63e5165e9474c33611ba092527967) |
+[PMI](https://www.linkedin.com/learning/certificates/d47bfdd72c87c65d1fe2933be107979ba6a5258717ce46f754539e2beb2d24ec)
+    * Project Management Foundations: Requirements CPE, QAS and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/6c1eca488c0fb7ef16e469bfd205607c978c6defe8602aa6e1fbc5024fb2c531) |
+[NASBA](https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48) |
+[PMI](https://www.linkedin.com/learning/certificates/075be95dfa5c224b125fef5660ccc8814feb2722225297c569124cc657676e79)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
