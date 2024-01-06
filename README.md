@@ -105,7 +105,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 )
 * REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f )
 
-### LinkedIn ###
+### LinkedIn set 🔷🔷🔷 complete set 🔷🔷🔷 ###
 🥺💬 Thank you LinkedIn for one month free trials
 * Career Essentials in Data Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94)
 * Career Essentials in Software Development by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c)
