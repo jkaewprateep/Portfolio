@@ -192,6 +192,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [NASBA](https://www.linkedin.com/learning/certificates/7c9b81e9399424d90171f537e9b87bd5acea1c609116f7956662bbd1f7f1eb48) |
 [PMI](https://www.linkedin.com/learning/certificates/075be95dfa5c224b125fef5660ccc8814feb2722225297c569124cc657676e79)
     * Learning Data Science: Understanding the Basics [LinkedIn](https://www.linkedin.com/learning/certificates/612c32783dca6fcb211b034f0bb7f4539b5b42c3af5c2e2d6077a358dbf9ed69)
+    * Managing Data with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/5e7af3a88e952f0c5885ac4727c7b32ce050ce6f333c2a2fae5065404d05df49)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
