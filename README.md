@@ -182,7 +182,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 [LinkedIn](https://www.linkedin.com/learning/certificates/4aa8f6d78b8a674145efb5f5d7d4f639fb6348383f0e6e929b72e0ad8411ff89) |
 [NASBA](https://www.linkedin.com/learning/certificates/e05451498c8626c58fcf2bb98dddf8638039ee0f27fcca1da7d73ce5e42b924a) |
 [PMI](https://www.linkedin.com/learning/certificates/cb5081c6d5a36cb520234245e5bdeb2a6d33af29a3c55a5a31145696a9ef17cf)
-
+    * Business Analyst and Project Manager Collaboration IIBA, NASBA and PMI [IIBA](https://www.linkedin.com/learning/certificates/f0b942609f59dea29a186533a905845549b2961dba3b2fcc96816b19f27ce43e) |
+[LinkedIn](https://www.linkedin.com/learning/certificates/96fef5c13215b2ec862725e41abac3861bd63463fee9875e5141e87ef66a75a9) |
+[NASBA](https://www.linkedin.com/learning/certificates/3560582e7cc5c5aba2c9d47f4a57aca2cee0d401d3e637e5ad1e45f90d4936a9) |
+[PMI](https://www.linkedin.com/learning/certificates/73bdc8db502d282470d5b7cdd8cfddf6b310d0c1cdf7fb677259292cf36ec776)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
