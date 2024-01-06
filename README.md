@@ -194,6 +194,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Learning Data Science: Understanding the Basics [LinkedIn](https://www.linkedin.com/learning/certificates/612c32783dca6fcb211b034f0bb7f4539b5b42c3af5c2e2d6077a358dbf9ed69)
     * Managing Data with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/5e7af3a88e952f0c5885ac4727c7b32ce050ce6f333c2a2fae5065404d05df49)
 
+* Career Essentials in Generative AI by Microsoft and LinkedIn
+    * What Is Generative AI? [LinkedIn](https://www.linkedin.com/learning/certificates/eeaad0929219b984774ce29dcb1cd9fa367e12cc8ae0745984ad1c216f259d1f)
+
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
 * StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep )
