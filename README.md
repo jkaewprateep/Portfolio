@@ -198,6 +198,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * What Is Generative AI? [LinkedIn](https://www.linkedin.com/learning/certificates/eeaad0929219b984774ce29dcb1cd9fa367e12cc8ae0745984ad1c216f259d1f)
     * Generative AI: The Evolution of Thoughtful Online Search [LinkedIn](https://www.linkedin.com/learning/certificates/cdf6a5501a83a8f56d8708ab39fe0eebca940c66aa20e136a42b93cefea88d3a)
     * Streamlining Your Work with Copilot (formerly Bing Chat/Bing Chat Enterprise) [LinkedIn](https://www.linkedin.com/learning/certificates/094de3dc2f58b407d3ea42c629306c9748c8cd67a9df712977137a39126ee470)
+    * Microsoft 365 Copilot First Look [LinkedIn](https://www.linkedin.com/learning/certificates/da36223fe7837f21382d93680785755910d7ed53b0f5ad3158b8bdafd100c321)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
