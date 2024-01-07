@@ -194,7 +194,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Learning Data Science: Understanding the Basics [LinkedIn](https://www.linkedin.com/learning/certificates/612c32783dca6fcb211b034f0bb7f4539b5b42c3af5c2e2d6077a358dbf9ed69)
     * Managing Data with Microsoft 365 [LinkedIn](https://www.linkedin.com/learning/certificates/5e7af3a88e952f0c5885ac4727c7b32ce050ce6f333c2a2fae5065404d05df49)
 
-* Career Essentials in Generative AI by Microsoft and LinkedIn
+* Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7)
     * What Is Generative AI? [LinkedIn](https://www.linkedin.com/learning/certificates/eeaad0929219b984774ce29dcb1cd9fa367e12cc8ae0745984ad1c216f259d1f)
     * Generative AI: The Evolution of Thoughtful Online Search [LinkedIn](https://www.linkedin.com/learning/certificates/cdf6a5501a83a8f56d8708ab39fe0eebca940c66aa20e136a42b93cefea88d3a)
     * Streamlining Your Work with Copilot (formerly Bing Chat/Bing Chat Enterprise) [LinkedIn](https://www.linkedin.com/learning/certificates/094de3dc2f58b407d3ea42c629306c9748c8cd67a9df712977137a39126ee470)
