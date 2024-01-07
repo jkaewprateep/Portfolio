@@ -91,11 +91,11 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Google Digital Marketing & E-commerce ( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 )
 * Google IT Support Specialization ( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 )
 
-### Developer certificates set ###  
+### Developer Certificates ###  
 * Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc )
 * DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 )
 
-### HackerRank ###
+### HackerRank Certificates ###
 * Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c )
 * Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad )
 * Python (Basic) ( https://www.hackerrank.com/certificates/e063e97d9d72 )
