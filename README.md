@@ -114,6 +114,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/41910d8f5afb6e8f6031f3d79953087ecf497962b4d320f63b0a7a402ba04515)
 * Career Essentials in Business Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/9c356f42629fc1382eaa1836bc5367c3058af40830a4c95b4b11d7094ad5f767)
 * Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7)
+* Career Essentials in Cybersecurity by Microsoft and LinkedIn
+    * The Cybersecurity Threat Landscape [LinkedIn](https://www.linkedin.com/learning/certificates/c4f5d4c446ec87df980da002e3f37170193a334a88ddc0c35346a1cdf436b203)
+
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
