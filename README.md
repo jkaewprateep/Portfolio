@@ -116,6 +116,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7)
 * Career Essentials in Cybersecurity by Microsoft and LinkedIn
     * The Cybersecurity Threat Landscape [LinkedIn](https://www.linkedin.com/learning/certificates/c4f5d4c446ec87df980da002e3f37170193a334a88ddc0c35346a1cdf436b203)
+    * Cybersecurity Awareness: Cybersecurity Terminology LinkedIn, NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/34ab7abd24e44e0822bd515858665b10bffb12850c4baa80af1d7698688f045a) | [NASBA](https://www.linkedin.com/learning/certificates/1f0cfb31304627d06af5ed5be3317218d43747cb52e93d036ba52e9c8711d788) | [PMI](https://www.linkedin.com/learning/certificates/9cd3338bcdcc248b22805e2284cc70f60ae9fc0da81a14bfddb593509583581b)
 
 
 ## Publication ##
