@@ -122,6 +122,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Project Management: Technical Projects LinkedIn and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/4cbdae6e692d48482e1c99e632f49043e6554e9bd8ed7dc2603cacff8666f744) | [PMI](https://www.linkedin.com/learning/certificates/8b6b20e7615797f7930bd7d43e9a9ffbb040603c02af0241a01c07a182701388)
 * AI Workshop: Build a Neural Network with PyTorch Lightning [LinkedIn](https://www.linkedin.com/learning/certificates/0bfe105554a5235ca465bdb5e669d7a3e5fe1e20f249e2550220a61451c40666)
 * OpenAI API: Building Assistants [LinkedIn](https://www.linkedin.com/learning/certificates/f102a22a691029f57309c1c75c5d30889862cbc8c54ce8f3da51d957307cb3ac)
+* Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337)
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
