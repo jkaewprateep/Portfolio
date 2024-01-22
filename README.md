@@ -63,11 +63,11 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Activities ##
 | Activity name | Description    | Type    |
-| :---:   | :---: | :---: |
+| :---:   | --- | --- |
 | Asian Games 13th | Open ceremony performance actor   | Asian community interactions   |
 | Tsunami Shelters activity | Working activity   | Diaster reliefs and community interactions    |
 | Robocup Competitions | Working activity   | Technology project and community interactions   |
-| Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions   |
+| Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### IBM Certificates set ###
