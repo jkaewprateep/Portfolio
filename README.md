@@ -122,6 +122,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * AI Workshop: Build a Neural Network with PyTorch Lightning [LinkedIn](https://www.linkedin.com/learning/certificates/0bfe105554a5235ca465bdb5e669d7a3e5fe1e20f249e2550220a61451c40666) 🔶
 * OpenAI API: Building Assistants [LinkedIn](https://www.linkedin.com/learning/certificates/f102a22a691029f57309c1c75c5d30889862cbc8c54ce8f3da51d957307cb3ac) 🔶
 * Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337) 🔷
+* Apply Ethical AI Principles Using the Responsible AI Dashboard [LinkedIn](https://www.linkedin.com/learning/certificates/885256e9a21f5ec4f023a1c9df85e218c06339b6e5491a52bb8b1c418a1f880f) 🔷
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 ) 🔷🔶
