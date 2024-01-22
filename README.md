@@ -125,11 +125,11 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337) 🔷
 
 ## Publication ##
-* IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
-* StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep )
+* IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 ) 🔷🔶
+* StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep ) 🔷🔶
  
 ## Learning materials reviews ( my reviews and explanation ) ##
-* IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md )
+* IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
