@@ -116,8 +116,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/41910d8f5afb6e8f6031f3d79953087ecf497962b4d320f63b0a7a402ba04515) 🔷
 * Career Essentials in Business Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/9c356f42629fc1382eaa1836bc5367c3058af40830a4c95b4b11d7094ad5f767) 🔷
 * Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7) 🔷
-* Career Essentials in Cybersecurity by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/df0a390afa2aece4979f44f6977f5092f44c2bf7ea9a23402233174c51cd4341) 🔷
-    
+* Career Essentials in Cybersecurity by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/df0a390afa2aece4979f44f6977f5092f44c2bf7ea9a23402233174c51cd4341) 🔷   
 * Python Data Structures and Algorithms [LinkedIn](https://www.linkedin.com/learning/certificates/fa872638d1ca28bef34f5358f656306e6086228ac8d42a40afd6d47207b4bd48) 🔶
 * Project Management: Technical Projects LinkedIn and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/4cbdae6e692d48482e1c99e632f49043e6554e9bd8ed7dc2603cacff8666f744) | [PMI](https://www.linkedin.com/learning/certificates/8b6b20e7615797f7930bd7d43e9a9ffbb040603c02af0241a01c07a182701388) 🔷
 * AI Workshop: Build a Neural Network with PyTorch Lightning [LinkedIn](https://www.linkedin.com/learning/certificates/0bfe105554a5235ca465bdb5e669d7a3e5fe1e20f249e2550220a61451c40666) 🔶
