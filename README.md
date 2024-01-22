@@ -69,62 +69,60 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Robocup Competitions | Working activity   | Technology project and community interactions   |
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions   |
 
-## Certificates ##
+## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
-* IBM Data Science ( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b )
-* IBM Data Analyst Professional Certificate ( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 )
-* IBM Data Science Fundamentals with Python and SQL ( https://coursera.org/share/9337522810d0d175124145361c1d0ffe )
-* IBM Data Analytics with Excel and R Specialization ( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 )
-* IBM AI Engineering ( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e )
-* IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a )
+* IBM Data Science ( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷
+* IBM Data Analyst Professional Certificate ( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 ) 🔷
+* IBM Data Science Fundamentals with Python and SQL ( https://coursera.org/share/9337522810d0d175124145361c1d0ffe ) 🔷
+* IBM Data Analytics with Excel and R Specialization ( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
+* IBM AI Engineering ( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
+* IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
   
-### Google Professional Certificates set 🔷🔷🔷 complete set 🔷🔷🔷 ###
+### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
-* Google Project Management: Professional Certificate ( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c )
-* Google Data Analytics Specialization ( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 )
-* Google Advanced Data Analytics Specialization ( https://coursera.org/share/57da7e3513113927b5a73d88b6358475 )
-* Google IT Automation with Python ( https://coursera.org/share/4ce05eb064193ff87071baedb37f1c9e )
-* Google Cybersecurity Specialization ( https://coursera.org/share/8474ada2c0215a99f181ae1f078f3bfb )
-* Google UX Design Specialization ( https://coursera.org/share/15f48b13d33cefb8686c2bcca579d6a8 )
-* Google Business Intelligence Specialization ( https://coursera.org/share/4c62b008846078ee7a06bfc3ffc2b8ae )
-* Google Digital Marketing & E-commerce ( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 )
-* Google IT Support Specialization ( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 )
+* Google Project Management: Professional Certificate ( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c ) 🔷
+* Google Data Analytics Specialization ( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 ) 🔷
+* Google Advanced Data Analytics Specialization ( https://coursera.org/share/57da7e3513113927b5a73d88b6358475 ) 🔷
+* Google IT Automation with Python ( https://coursera.org/share/4ce05eb064193ff87071baedb37f1c9e ) 🔷
+* Google Cybersecurity Specialization ( https://coursera.org/share/8474ada2c0215a99f181ae1f078f3bfb ) 🔷
+* Google UX Design Specialization ( https://coursera.org/share/15f48b13d33cefb8686c2bcca579d6a8 ) 🔷
+* Google Business Intelligence Specialization ( https://coursera.org/share/4c62b008846078ee7a06bfc3ffc2b8ae ) 🔷
+* Google Digital Marketing & E-commerce ( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 ) 🔷
+* Google IT Support Specialization ( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 ) 🔷
 
 ### Developer Certificates ###  
-* Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc )
-* DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 )
+* Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc ) 🔷
+* DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
 
 ### HackerRank Certificates ###
-* Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c )
-* Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad )
-* Python (Basic) ( https://www.hackerrank.com/certificates/e063e97d9d72 )
-* R (Basic) ( https://www.hackerrank.com/certificates/9554f8fcbe36 )
-* SQL (Basic) ( https://www.hackerrank.com/certificates/bd7a00b7e48c )
-* SQL (Intermediate) ( https://www.hackerrank.com/certificates/4f05f8fc9385 )
-* SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 )
-* REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f )
-* Software Engineer Intern Certificate ( https://www.hackerrank.com/certificates/facf8ca7cdc7 )
-* Go (Basic) Certificate ( https://www.hackerrank.com/certificates/508413586b87 )
+* Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
+* Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad ) 🔶
+* Python (Basic) ( https://www.hackerrank.com/certificates/e063e97d9d72 ) 🔶
+* R (Basic) ( https://www.hackerrank.com/certificates/9554f8fcbe36 ) 🔶
+* SQL (Basic) ( https://www.hackerrank.com/certificates/bd7a00b7e48c ) 🔶
+* SQL (Intermediate) ( https://www.hackerrank.com/certificates/4f05f8fc9385 ) 🔶
+* SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 ) 🔶
+* REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f ) 🔶
+* Go (Basic) Certificate ( https://www.hackerrank.com/certificates/508413586b87 ) 🔶
+* Software Engineer Intern Certificate ( https://www.hackerrank.com/certificates/facf8ca7cdc7 ) 🔷
 
-### LinkedIn Certificates set 🔷🔷🔷 complete set 🔷🔷🔷 ###
-🥺💬 Thank you LinkedIn for one month free trials
-* Career Essentials in Data Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94)
-* Career Essentials in Software Development by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c)
-* Career Essentials in System Administration by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3c1d608a2017f9f04655d56a91a13772259205bcce8ef85ff03402c36c19d289)
-* Career Essentials in Project Management by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/c0ac835b5fc055fef4d7f1092cbcf2d9b126e23ab0771d5ee4a21db8e112f799)
-* Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/41910d8f5afb6e8f6031f3d79953087ecf497962b4d320f63b0a7a402ba04515)
-* Career Essentials in Business Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/9c356f42629fc1382eaa1836bc5367c3058af40830a4c95b4b11d7094ad5f767)
-* Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7)
-* Career Essentials in Cybersecurity by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/df0a390afa2aece4979f44f6977f5092f44c2bf7ea9a23402233174c51cd4341)
-    * The Cybersecurity Threat Landscape [LinkedIn](https://www.linkedin.com/learning/certificates/c4f5d4c446ec87df980da002e3f37170193a334a88ddc0c35346a1cdf436b203)
-    * Cybersecurity Awareness: Cybersecurity Terminology LinkedIn, NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/34ab7abd24e44e0822bd515858665b10bffb12850c4baa80af1d7698688f045a) | [NASBA](https://www.linkedin.com/learning/certificates/1f0cfb31304627d06af5ed5be3317218d43747cb52e93d036ba52e9c8711d788) | [PMI](https://www.linkedin.com/learning/certificates/9cd3338bcdcc248b22805e2284cc70f60ae9fc0da81a14bfddb593509583581b)
-    * Cybersecurity Foundations LinkedIn, NASBA and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/8bd73018e33fa8a70d938d0c5a9033b6ecb4e08fb11912640fc22d85b5853f28) | [NASBA](https://www.linkedin.com/learning/certificates/9368aa2528e329146276ffe9717af2f09b89ecf5776b9b9796f44642ee129283) | [PMI](https://www.linkedin.com/learning/certificates/bf631db3536b8d99d19b64376d7d125170fab2a0f89e2572f243684643a46afe)
-* Python Data Structures and Algorithms [LinkedIn](https://www.linkedin.com/learning/certificates/fa872638d1ca28bef34f5358f656306e6086228ac8d42a40afd6d47207b4bd48)
-* Project Management: Technical Projects LinkedIn and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/4cbdae6e692d48482e1c99e632f49043e6554e9bd8ed7dc2603cacff8666f744) | [PMI](https://www.linkedin.com/learning/certificates/8b6b20e7615797f7930bd7d43e9a9ffbb040603c02af0241a01c07a182701388)
-* AI Workshop: Build a Neural Network with PyTorch Lightning [LinkedIn](https://www.linkedin.com/learning/certificates/0bfe105554a5235ca465bdb5e669d7a3e5fe1e20f249e2550220a61451c40666)
-* OpenAI API: Building Assistants [LinkedIn](https://www.linkedin.com/learning/certificates/f102a22a691029f57309c1c75c5d30889862cbc8c54ce8f3da51d957307cb3ac)
-* Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337)
+### LinkedIn Certificates ###
+🥺💬 Thank you LinkedIn for one month of free trials
+* Career Essentials in Data Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94) 🔷
+* Career Essentials in Software Development by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3e1389289e18b71060e7a30a37e9678093ed969315df389dbb9c3c9fbd249b4c) 🔷
+* Career Essentials in System Administration by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/3c1d608a2017f9f04655d56a91a13772259205bcce8ef85ff03402c36c19d289) 🔷
+* Career Essentials in Project Management by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/c0ac835b5fc055fef4d7f1092cbcf2d9b126e23ab0771d5ee4a21db8e112f799) 🔷
+* Career Essentials in Administrative Assistance by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/41910d8f5afb6e8f6031f3d79953087ecf497962b4d320f63b0a7a402ba04515) 🔷
+* Career Essentials in Business Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/9c356f42629fc1382eaa1836bc5367c3058af40830a4c95b4b11d7094ad5f767) 🔷
+* Career Essentials in Generative AI by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/04ee477b3a7ba0efac528f402700a325c7d9d37ec6716596b35fdb1f763e4bd7) 🔷
+* Career Essentials in Cybersecurity by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/df0a390afa2aece4979f44f6977f5092f44c2bf7ea9a23402233174c51cd4341) 🔷
+    
+* Python Data Structures and Algorithms [LinkedIn](https://www.linkedin.com/learning/certificates/fa872638d1ca28bef34f5358f656306e6086228ac8d42a40afd6d47207b4bd48) 🔶
+* Project Management: Technical Projects LinkedIn and PMI [LinkedIn](https://www.linkedin.com/learning/certificates/4cbdae6e692d48482e1c99e632f49043e6554e9bd8ed7dc2603cacff8666f744) | [PMI](https://www.linkedin.com/learning/certificates/8b6b20e7615797f7930bd7d43e9a9ffbb040603c02af0241a01c07a182701388) 🔷
+* AI Workshop: Build a Neural Network with PyTorch Lightning [LinkedIn](https://www.linkedin.com/learning/certificates/0bfe105554a5235ca465bdb5e669d7a3e5fe1e20f249e2550220a61451c40666) 🔶
+* OpenAI API: Building Assistants [LinkedIn](https://www.linkedin.com/learning/certificates/f102a22a691029f57309c1c75c5d30889862cbc8c54ce8f3da51d957307cb3ac) 🔶
+* Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337) 🔷
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 )
