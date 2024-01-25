@@ -78,6 +78,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * IBM Data Analytics with Excel and R Specialization ( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
 * IBM AI Engineering ( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
 * IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
+* IBM Data Warehouse Engineer Professional Certificate
+    * Introduction to Data Engineering [IBM](https://coursera.org/share/79e679c06562d16d7e853be114e6b893) 🔷
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
