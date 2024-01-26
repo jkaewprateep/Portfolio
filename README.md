@@ -80,6 +80,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
 * IBM Data Warehouse Engineer Professional Certificate
     * Introduction to Data Engineering [IBM](https://www.coursera.org/account/accomplishments/certificate/ASDNH5VMX8XE) 🔷
+    * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷 
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
