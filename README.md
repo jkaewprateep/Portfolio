@@ -80,7 +80,12 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
 * IBM Data Warehouse Engineer Professional Certificate
     * Introduction to Data Engineering [IBM](https://www.coursera.org/account/accomplishments/certificate/ASDNH5VMX8XE) 🔷
-    * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷 
+    * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷
+ 
+### HONORS ###
+* Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
+* Introduction to Agile Development and Scrum [IBM](https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa) 🔷
+* Machine Learning with Python [IBM](https://coursera.org/share/59a212b3e22f0867634fe1f9d1915d46) 🔶
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
