@@ -86,7 +86,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Python Project for Data Engineering [IBM](https://coursera.org/share/96e010ad909209ffea97ba3fedde2875) 🔶
     * Introduction to NoSQL Databases [IBM](https://coursera.org/share/5b1fdbb88e4aa751d997c62e62fc115d) 🔶
     * Hands-on Introduction to Linux Commands and Shell Scripting [IBM](https://coursera.org/share/9c0d20ef4246661611187586d975c155) 🔶
-       
+    * Relational Database Administration (DBA) [IBM](https://coursera.org/share/b3f5805c209e9f4752bb8add07081c0c) 🔶
+      
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
 * Introduction to Agile Development and Scrum [IBM](https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa) 🔷
