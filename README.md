@@ -87,6 +87,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to NoSQL Databases [IBM](https://coursera.org/share/5b1fdbb88e4aa751d997c62e62fc115d) 🔶
     * Hands-on Introduction to Linux Commands and Shell Scripting [IBM](https://coursera.org/share/9c0d20ef4246661611187586d975c155) 🔶
     * Relational Database Administration (DBA) [IBM](https://coursera.org/share/b3f5805c209e9f4752bb8add07081c0c) 🔶
+    * ETL and Data Pipelines with Shell, Airflow and Kafka [IBM](https://coursera.org/share/326f8800d94e9e9aae6f358596c479f1) 🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
