@@ -70,6 +70,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
+### University ###
+* UNIVERSITY OF MICHIGAN: Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
+
+
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
 * IBM Data Science ( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷
