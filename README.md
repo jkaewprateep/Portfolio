@@ -70,9 +70,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
-### University ###
-* UNIVERSITY OF MICHIGAN: Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
-* UNIVERSITY OF MICHIGAN:  Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
+### UNIVERSITY OF MICHIGAN ###
+* Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
+* Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
 
 
 ### IBM Certificates set ###
