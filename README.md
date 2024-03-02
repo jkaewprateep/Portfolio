@@ -74,6 +74,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
 * Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
 * Applied Text Mining in Python ( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
+* Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
