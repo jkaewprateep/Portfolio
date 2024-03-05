@@ -71,11 +71,12 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### UNIVERSITY OF MICHIGAN ###
-* Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
-* Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
-* Applied Text Mining in Python ( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
-* Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
-* Applied Social Network Analysis in Python ( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
+* Applied Data Science with Python ( https://coursera.org/share/99b989f079284ca6cae2bb8981f58dfa )🔶🔷
+   * Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
+   * Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
+   * Applied Text Mining in Python ( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
+   * Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
+   * Applied Social Network Analysis in Python ( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
