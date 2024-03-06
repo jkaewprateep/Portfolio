@@ -99,12 +99,14 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to Big Data with Spark and Hadoop [IBM](https://coursera.org/share/fd93e10f06624a6dc88cbdde06572d33) 🔶
     * Machine Learning with Apache Spark [IBM](https://coursera.org/share/c4e4e8eebe509e4d7c0267777bc08ecf) 🔶
     * Data Engineering Capstone Project [IBM](https://coursera.org/share/09a88be89db7dee5b67f1c7b2e380689) 🔶
+* IBM Back-end JavaScript Developer Professional Certificate
+    * Introduction to Software Engineering [IBM](https://coursera.org/share/09a88be89db7dee5b67f1c7b2e380689) 🔶🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
 * Introduction to Agile Development and Scrum [IBM](https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa) 🔷
 * Machine Learning with Python [IBM](https://coursera.org/share/59a212b3e22f0867634fe1f9d1915d46) 🔶
-* SQL: A Practical Introduction for Querying Databases [IBM](https://www.coursera.org/account/accomplishments/certificate/H2JJHMZF3VS9) 🔶
+* SQL: A Practical Introduction for Querying Databases [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
