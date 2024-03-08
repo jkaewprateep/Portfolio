@@ -102,13 +102,14 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * IBM Back-end JavaScript Developer Professional Certificate
     * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
     * Introduction to HTML, CSS, & JavaScript [IBM](https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d) 🔶🔷
+    * Getting Started with Git and GitHub [IBM](https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737) 🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
 * Introduction to Agile Development and Scrum [IBM](https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa) 🔷
 * Machine Learning with Python [IBM](https://coursera.org/share/59a212b3e22f0867634fe1f9d1915d46) 🔶
 * SQL: A Practical Introduction for Querying Databases [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶
-* Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷 ⏳( honors )
+* Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
