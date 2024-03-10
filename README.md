@@ -104,8 +104,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to HTML, CSS, & JavaScript [IBM](https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d) 🔶🔷
     * Getting Started with Git and GitHub [IBM](https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737) 🔶
     * JavaScript Programming Essentials [IBM](https://coursera.org/share/1ab31e21c81ce43f69e208312ad4c945) 🔶
-    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/cfa7b88b913e4a8446b9dc706c0802b0) 🔶
-    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/f3afa1bb51633c8b8d87e56dae1e9983) 🔶
+    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
+    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
