@@ -176,6 +176,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * University of Michigan - Applied Text Mining in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md ) 🔷🔶
 * University of Michigan - Applied Plotting, Charting & Data Representation in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/README.md ) 🔷🔶
 * University of Michigan - Applied Machine Learning in Python ( https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/README.md ) 🔷🔶
+* Similarity and differentiation of JavaScript and Node.js with Django on node.js, JavaScript-Programming-Essentials ( https://github.com/jkaewprateep/javascripts_vs_node-js/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
