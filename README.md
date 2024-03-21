@@ -170,6 +170,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
  
 ## Learning materials reviews ( my reviews and explanation ) ##
 * IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md ) 🔷🔶
+* IBM Coursera_DL0110EN_Honors : Fashion-MNIST Project ( https://github.com/jkaewprateep/Coursera_DL0110EN_Honors/blob/main/README.md ) 🔷🔶
 * University of Michigan - Introduction to Data Science in Python ( https://github.com/jkaewprateep/lessonfrom_Introduction_to_Data_Science_in_Python/blob/main/README.md ) 🔷🔶
 * University of Michigan - Applied Social Network Analysis in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Social_Network_Analysis_in_Python/blob/main/README.md ) 🔷🔶
 * University of Michigan - Applied Text Mining in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md ) 🔷🔶
