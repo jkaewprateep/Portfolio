@@ -179,6 +179,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * University of Michigan - Applied Machine Learning in Python ( https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/README.md ) 🔷🔶
 * Similarity and differentiation of JavaScript and Node.js with Django on node.js, JavaScript-Programming-Essentials ( https://github.com/jkaewprateep/javascripts_vs_node-js/blob/main/README.md ) 🔶
 * Python and automation process for a small single-batch task ( https://github.com/jkaewprateep/Python_automation_process/blob/main/README.md ) 🔷🔶
+* Data frame and records selection using Spark and Pandas - notes ( https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
