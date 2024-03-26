@@ -99,7 +99,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to Big Data with Spark and Hadoop [IBM](https://coursera.org/share/fd93e10f06624a6dc88cbdde06572d33) 🔶
     * Machine Learning with Apache Spark [IBM](https://coursera.org/share/c4e4e8eebe509e4d7c0267777bc08ecf) 🔶
     * Data Engineering Capstone Project [IBM](https://coursera.org/share/09a88be89db7dee5b67f1c7b2e380689) 🔶
-* IBM Back-end JavaScript Developer Professional Certificate
+* IBM Back-end JavaScript Developer Professional Certificate [IBM](https://coursera.org/share/5301020a4424c13a9bfa6619cc54a6b8)🔶🔷
     * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
     * Introduction to HTML, CSS, & JavaScript [IBM](https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d) 🔶🔷
     * Getting Started with Git and GitHub [IBM](https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737) 🔶
@@ -109,7 +109,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
     * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM](https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b) 🔶
     * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
-    * JavaScript Back-End Capstone Project * Waiting lives ⌛
+    * JavaScript Back-End Capstone Project [IBM](https://coursera.org/share/dbba78f387463ffc3fcab72501bbff6b)🔶🔷
     * Software Developer Career Guide and Interview Preparation [IBM](https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965) 🔷
       
 ### HONORS ###
