@@ -77,6 +77,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Applied Text Mining in Python ( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
    * Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
    * Applied Social Network Analysis in Python ( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
+ 
+* Python 3 Programming Specialization
+   * Python Basics ( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
