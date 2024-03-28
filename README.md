@@ -149,6 +149,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f ) 🔶
 * Go (Basic) Certificate ( https://www.hackerrank.com/certificates/508413586b87 ) 🔶
 * Software Engineer Intern Certificate ( https://www.hackerrank.com/certificates/facf8ca7cdc7 ) 🔷
+* JavaScript (Intermediate) Certificate ( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
 
 ### LinkedIn Certificates ###
 🥺💬 Thank you LinkedIn for one month of free trials
