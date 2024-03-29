@@ -80,6 +80,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
  
 * Python 3 Programming Specialization
    * Python Basics ( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
+   * Python Functions, Files, and Dictionaries ( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
