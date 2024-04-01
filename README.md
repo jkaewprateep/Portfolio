@@ -82,6 +82,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Python Basics ( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
    * Python Functions, Files, and Dictionaries ( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
    * Data Collection and Processing with Python ( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
+   * Python Classes and Inheritance ( https://coursera.org/share/03c8405ed0c7bfc56cb84491e97dd040 ) 🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
