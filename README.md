@@ -78,7 +78,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
    * Applied Social Network Analysis in Python ( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
  
-* Python 3 Programming Specialization
+* Python 3 Programming Specialization ( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) 🔶
    * Python Basics ( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
    * Python Functions, Files, and Dictionaries ( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
    * Data Collection and Processing with Python ( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
