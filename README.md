@@ -191,6 +191,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Class_inheritances - notes ( https://github.com/jkaewprateep/Class_inheritances/blob/main/README.md ) 🔶
 * Compact communication ( https://github.com/jkaewprateep/Compact_communication/blob/main/README.md ) 🔷🔶
 * Fakes evidence scenarios ( https://github.com/jkaewprateep/fakes_evidence_scenarios/blob/main/README.md ) 🔷
+* Fakes evidence scenarios 2 ( https://github.com/jkaewprateep/fakes_evidence_scenarios2/blob/main/README.md ) 🔷
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
