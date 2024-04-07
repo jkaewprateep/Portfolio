@@ -142,6 +142,14 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc ) 🔷
 * DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
 
+## META ##
+* Meta Database Engineer Professional Certificate
+    * Introduction to Databases ( https://coursera.org/share/0749feac300f720de0ff87affd80ac50 ) 🔶🔷
+    * Programming in Python ( https://coursera.org/share/1a454b9efcb601083af7d642b232eb90 ) 🔶
+    * Database Structures and Management with MySQL ( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
+    * Version Control ( https://coursera.org/share/d7356bafb6a4cfa311dc931484ce7532 ) 🔷
+    * Coding Interview Preparation ( https://coursera.org/share/00a739fa5aceef621406d41c90f55c2c ) 🔶
+
 ### HackerRank Certificates ###
 * Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
 * Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad ) 🔶
