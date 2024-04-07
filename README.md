@@ -210,7 +210,6 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162116.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162119.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162122.png?raw=true "Title")
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162122.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162533.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162558.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162622.png?raw=true "Title")
@@ -223,6 +222,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 ## Examples of Document works in IBM Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20164416.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20164732.png?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20170120.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20165153.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20170130.png?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20170135.png?raw=true "Title")
