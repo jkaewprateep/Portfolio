@@ -149,6 +149,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Database Structures and Management with MySQL ( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
     * Version Control ( https://coursera.org/share/d7356bafb6a4cfa311dc931484ce7532 ) 🔷
     * Coding Interview Preparation ( https://coursera.org/share/00a739fa5aceef621406d41c90f55c2c ) 🔶
+    * Advanced MySQL Topics ( https://coursera.org/share/f475813ed222acfa20ff3840f5c8b358 ) 🔶
 
 ### HackerRank Certificates ###
 * Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
