@@ -203,6 +203,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Fakes evidence scenarios 2 ( https://github.com/jkaewprateep/fakes_evidence_scenarios2/blob/main/README.md ) 🔷
 * fakes-real-_evidence_scenarios3 ( https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/README.md ) 🔷🔶
 * Attention in work - documents task example ( https://github.com/jkaewprateep/attention_in_work/blob/main/README.md ) 🔷🔶
+* META Advanced MySQL Topics - notes ( https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md ) 🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
