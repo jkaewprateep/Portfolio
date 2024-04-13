@@ -143,7 +143,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
 
 ## META ##
-* Meta Database Engineer Professional Certificate
+* Meta Database Engineer Professional Certificate ( https://coursera.org/share/0b7133ceaec8027d53af1c74b7d8e47d ) 🔶🔷
     * Introduction to Databases ( https://coursera.org/share/0749feac300f720de0ff87affd80ac50 ) 🔶🔷
     * Programming in Python ( https://coursera.org/share/1a454b9efcb601083af7d642b232eb90 ) 🔶
     * Database Structures and Management with MySQL ( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
