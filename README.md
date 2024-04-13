@@ -151,6 +151,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Coding Interview Preparation ( https://coursera.org/share/00a739fa5aceef621406d41c90f55c2c ) 🔶
     * Advanced MySQL Topics ( https://coursera.org/share/f475813ed222acfa20ff3840f5c8b358 ) 🔶
     * Database Clients ( https://coursera.org/share/8312eab4bdcfa958f33b4314ded27072 ) 🔶
+    * Advanced Data Modeling ( https://coursera.org/share/2000e1265e6ee34d1da59506963552a0 ) 🔶
 
 ### HackerRank Certificates ###
 * Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
