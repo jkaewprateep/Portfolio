@@ -87,6 +87,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Translational Science Specialization 
    * Introduction to translational Science
    * Translating Basic Research into Research for Humans ( https://coursera.org/share/e25cf2387283f84e9bc31967a8a15815 ) 🔷
+   * Translating Research to Patients ( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
