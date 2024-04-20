@@ -195,26 +195,26 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep ) 🔷🔶
  
 ## Learning materials reviews ( my reviews and explanation ) ##
-* IBM Data Science course ( https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md ) 🔷🔶
-* IBM Coursera_DL0110EN_Honors notes: Fashion-MNIST Project ( https://github.com/jkaewprateep/Coursera_DL0110EN_Honors/blob/main/README.md ) 🔷🔶
-* IBM - Machine Learning with Apache Spark - notes ( https://github.com/jkaewprateep/machinelearning_apachespark/blob/main/README.md ) 🔷🔶
-* University of Michigan - Introduction to Data Science in Python ( https://github.com/jkaewprateep/lessonfrom_Introduction_to_Data_Science_in_Python/blob/main/README.md ) 🔷🔶
-* University of Michigan - Applied Social Network Analysis in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Social_Network_Analysis_in_Python/blob/main/README.md ) 🔷🔶
-* University of Michigan - Applied Text Mining in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md ) 🔷🔶
-* University of Michigan - Applied Plotting, Charting & Data Representation in Python ( https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/README.md ) 🔷🔶
-* University of Michigan - Applied Machine Learning in Python ( https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/README.md ) 🔷🔶
-* Similarity and differentiation of JavaScript and Node.js with Django on node.js, JavaScript-Programming-Essentials ( https://github.com/jkaewprateep/javascripts_vs_node-js/blob/main/README.md ) 🔶
-* Python and automation process for a small single-batch task ( https://github.com/jkaewprateep/Python_automation_process/blob/main/README.md ) 🔷🔶
-* Data frame and records selection using Spark and Pandas - notes ( https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/README.md ) 🔷🔶
-* Class_inheritances - notes ( https://github.com/jkaewprateep/Class_inheritances/blob/main/README.md ) 🔶
-* Compact communication ( https://github.com/jkaewprateep/Compact_communication/blob/main/README.md ) 🔷🔶
-* Fakes evidence scenarios ( https://github.com/jkaewprateep/fakes_evidence_scenarios/blob/main/README.md ) 🔷
-* Fakes evidence scenarios 2 ( https://github.com/jkaewprateep/fakes_evidence_scenarios2/blob/main/README.md ) 🔷
-* fakes-real-_evidence_scenarios3 ( https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/README.md ) 🔷🔶
-* Attention in work - documents task example ( https://github.com/jkaewprateep/attention_in_work/blob/main/README.md ) 🔷🔶
-* META Advanced MySQL Topics - notes ( https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md ) 🔶
-* META Database Engineer project - notes ( https://github.com/jkaewprateep/mysql_db-project_notes/blob/main/README.md ) 🔶
-* IBM Back-end JavaScript Developer - notes ( https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/README.md ) 🔶
+* IBM Data Science course [Link](https://github.com/jkaewprateep/Neuron-Networks-review/blob/main/README.md) 🔷🔶
+* IBM Coursera_DL0110EN_Honors notes: Fashion-MNIST Project [Link](https://github.com/jkaewprateep/Coursera_DL0110EN_Honors/blob/main/README.md) 🔷🔶
+* IBM - Machine Learning with Apache Spark - notes [Link](https://github.com/jkaewprateep/machinelearning_apachespark/blob/main/README.md) 🔷🔶
+* University of Michigan - Introduction to Data Science in Python [Link](https://github.com/jkaewprateep/lessonfrom_Introduction_to_Data_Science_in_Python/blob/main/README.md) 🔷🔶
+* University of Michigan - Applied Social Network Analysis in Python [Link](https://github.com/jkaewprateep/lessonfrom_Applied_Social_Network_Analysis_in_Python/blob/main/README.md) 🔷🔶
+* University of Michigan - Applied Text Mining in Python [Link](https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md) 🔷🔶
+* University of Michigan - Applied Plotting, Charting & Data Representation in Python [Link](https://github.com/jkaewprateep/lessonfrom_Applied_Plotting_Charting_and_Data_Representation_in_Python/blob/main/README.md) 🔷🔶
+* University of Michigan - Applied Machine Learning in Python [Link](https://github.com/jkaewprateep/lessonfrom_Applied-Machine-Learning-in-Python/blob/main/README.md) 🔷🔶
+* Similarity and differentiation of JavaScript and Node.js with Django on node.js, JavaScript-Programming-Essentials [Link](https://github.com/jkaewprateep/javascripts_vs_node-js/blob/main/README.md) 🔶
+* Python and automation process for a small single-batch task [Link](https://github.com/jkaewprateep/Python_automation_process/blob/main/README.md) 🔷🔶
+* Data frame and records selection using Spark and Pandas - notes [Link](https://github.com/jkaewprateep/data_frame_and_records_selection_using_Spark_and_Pandas/blob/main/README.md) 🔷🔶
+* Class_inheritances - notes [Link](https://github.com/jkaewprateep/Class_inheritances/blob/main/README.md) 🔶
+* Compact communication [Link](https://github.com/jkaewprateep/Compact_communication/blob/main/README.md) 🔷🔶
+* Fakes evidence scenarios [Link](https://github.com/jkaewprateep/fakes_evidence_scenarios/blob/main/README.md) 🔷
+* Fakes evidence scenarios 2 [Link](https://github.com/jkaewprateep/fakes_evidence_scenarios2/blob/main/README.md) 🔷
+* fakes-real-_evidence_scenarios3 [Link](https://github.com/jkaewprateep/fakes-real-_evidence_scenarios3/blob/main/README.md) 🔷🔶
+* Attention in work - documents task example [Link](https://github.com/jkaewprateep/attention_in_work/blob/main/README.md) 🔷🔶
+* META Advanced MySQL Topics - notes [Link](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md) 🔶
+* META Database Engineer project - notes [Link](https://github.com/jkaewprateep/mysql_db-project_notes/blob/main/README.md) 🔶
+* IBM Back-end JavaScript Developer - notes [Link](https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/README.md) 🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
