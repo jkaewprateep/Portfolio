@@ -191,7 +191,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Apply Ethical AI Principles Using the Responsible AI Dashboard [LinkedIn](https://www.linkedin.com/learning/certificates/885256e9a21f5ec4f023a1c9df85e218c06339b6e5491a52bb8b1c418a1f880f) 🔷
 
 ## Oracle ##
-* Oracle Cloud Data Management 2023 Certified Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/eCertificate.pdf) [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCDMF2023.jpg) 🔷
+* Oracle Cloud Data Management 2023 Certified Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/eCertificate.pdf) | [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCDMF2023.jpg) 🔷
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 ) 🔷🔶
