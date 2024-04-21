@@ -190,6 +190,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Raspberry Pi Essential Training [LinkedIn](https://www.linkedin.com/learning/certificates/a616ced52b3fa017bbf402a4020e7b8174737746c03ac000b5542500965e9a04) | [NASBA](https://www.linkedin.com/learning/certificates/031e101efe12c0364b214e704f124e56eaaeb31683b599be662e40e346d4d337) 🔷
 * Apply Ethical AI Principles Using the Responsible AI Dashboard [LinkedIn](https://www.linkedin.com/learning/certificates/885256e9a21f5ec4f023a1c9df85e218c06339b6e5491a52bb8b1c418a1f880f) 🔷
 
+## Oracle ##
+* Oracle Cloud Data Management 2023 Certified Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/eCertificate.pdf) [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCDMF2023.jpg) 🔷
+
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 ) 🔷🔶
 * StackOverflow programming and machine learning AI contribution. ( https://stackoverflow.com/users/7848579/jirayu-kaewprateep ) 🔷🔶
