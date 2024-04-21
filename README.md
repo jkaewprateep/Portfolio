@@ -84,8 +84,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Data Collection and Processing with Python ( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
    * Python Classes and Inheritance ( https://coursera.org/share/03c8405ed0c7bfc56cb84491e97dd040 ) 🔶
    * Python Project: pillow, tesseract, and opencv ( https://coursera.org/share/36cca869479e745d4437012bab6ab546 ) 🔶
-* Translational Science Specialization 
-   * Introduction to translational Science
+* Translational Science Specialization ( https://coursera.org/share/4fc3fb5d00609275a56f6feba64269f1 ) 🔷
+   * Introduction to translational Science ( https://coursera.org/share/b52b5a85df6039b40940d8747c21910c ) 🔷
    * Translating Basic Research into Research for Humans ( https://coursera.org/share/e25cf2387283f84e9bc31967a8a15815 ) 🔷
    * Translating Research to Patients ( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
    * Translating Research to Communities ( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
