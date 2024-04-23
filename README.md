@@ -192,6 +192,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Oracle ##
 * Oracle Cloud Data Management 2023 Certified Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/eCertificate.pdf) | [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCDMF2023.jpg) 🔷
+* Oracle Java Explorer [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/java_explorer.png) 🔶
 
 ## Publication ##
 * IEEE Evaluation of Small-Scale Deep Learning Architectures in Thai Speech Recognition, using deep-learning for speech recognition task. ( https://ieeexplore.ieee.org/document/8378282 ) 🔷🔶
