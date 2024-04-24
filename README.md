@@ -124,6 +124,12 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
     * JavaScript Back-End Capstone Project [IBM](https://coursera.org/share/dbba78f387463ffc3fcab72501bbff6b)🔶🔷
     * Software Developer Career Guide and Interview Preparation [IBM](https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965) 🔷
+* IBM Front-End Developer Professional Certificate
+    * Introduction to HTML, CSS, & JavaScript ( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
+    * Getting Started with Git and GitHub ( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
+    * Get Started with Cloud Native, DevOps, Agile, and NoSQL ( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
+    * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
