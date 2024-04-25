@@ -129,6 +129,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Getting Started with Git and GitHub ( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
     * Get Started with Cloud Native, DevOps, Agile, and NoSQL ( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
     * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Getting Started with Front-End and Web Development ( https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4 ) 🔶
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
       
 ### HONORS ###
