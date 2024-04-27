@@ -140,6 +140,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Machine Learning with Python [IBM](https://coursera.org/share/59a212b3e22f0867634fe1f9d1915d46) 🔶
 * SQL: A Practical Introduction for Querying Databases [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶
 * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
+* Getting Started with Front-End and Web Development [IBM](https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4) 🔶
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
