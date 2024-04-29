@@ -133,6 +133,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Designing User Interfaces and Experiences (UI/UX) ( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
     * Developing Websites and Front-Ends with Bootstrap ( https://coursera.org/share/3b36322f10412fa68b69fe2041698c03 ) 🔶
     * Developing Front-End Apps with React ( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
+    * Intermediate Web and Front-End Development ( https://coursera.org/share/31157f1f92eb969af3073210d64003a4 ) 🔶
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
       
 ### HONORS ###
