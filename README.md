@@ -206,7 +206,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Oracle ##
 * Oracle Cloud Data Management 2023 Certified Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/eCertificate.pdf) | [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCDMF2023.jpg) 🔷
-* Oracle Cloud Infrastructure 2023 AI Foundations Associate 🔷
+* Oracle Cloud Infrastructure 2023 AI Foundations Associate [Certificate](https://github.com/jkaewprateep/Portfolio/blob/main/AI%20-%20eCertificate.pdf) | [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/OCI23AIFCA.jpg) 🔷
 * Oracle Java Explorer [Badge](https://github.com/jkaewprateep/Portfolio/blob/main/java_explorer.png) 🔶
 
 ## Publication ##
