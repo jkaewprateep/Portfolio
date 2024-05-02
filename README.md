@@ -151,7 +151,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
 * Getting Started with Front-End and Web Development [IBM](https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4) 🔶
 * Designing User Interfaces and Experiences (UI/UX) [IBM]( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
-* Introduction to Artificial Intelligence (AI)
+* Introduction to Artificial Intelligence (AI) ( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
