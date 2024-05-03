@@ -141,6 +141,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to HTML, CSS, & JavaScript ( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
     * Python for Data Science, AI & Development ( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
     * Introduction to Artificial Intelligence (AI) ( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
+    * Generative AI: Introduction and Applications ( https://coursera.org/share/7ceaf0aa58131a7ed60977ff447a3e2a ) 🔶🔷
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
       
 ### HONORS ###
