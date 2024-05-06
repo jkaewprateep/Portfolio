@@ -145,6 +145,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Generative AI: Prompt Engineering Basics ( https://coursera.org/share/d5d0e18010b66c33d2bcee260623edc0 ) 🔶🔷
     * Developing AI Applications with Python and Flask ( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
     * Building Generative AI-Powered Applications with Python ( https://coursera.org/share/a4be2242e7c09790d07b996d5b12bddb ) 🔶
+    * Generative AI: Elevate your Software Development Career ( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
       
 ### HONORS ###
