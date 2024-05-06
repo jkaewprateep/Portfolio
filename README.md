@@ -136,7 +136,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Intermediate Web and Front-End Development ( https://coursera.org/share/31157f1f92eb969af3073210d64003a4 ) 🔶
     * Front-End Development Capstone Project ( https://coursera.org/share/17e17dbc6d14f099c37cbdf04138dbf3 ) 🔶
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
-* IBM AI Developer Professional Certificate
+* IBM AI Developer Professional Certificate ( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷
     * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
     * Introduction to HTML, CSS, & JavaScript ( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
     * Python for Data Science, AI & Development ( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
