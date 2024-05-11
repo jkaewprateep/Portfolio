@@ -153,6 +153,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
     * Introduction to DevOps ( https://coursera.org/share/1fd11394c0834e28ff6cbbfa86a8928a ) 🔷
     * Introduction to Agile Development and Scrum ( https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa ) 🔶🔷
+    * Information Technology (IT) Fundamentals for Everyone ( https://coursera.org/share/cc26f83baa661091bb61a148bcedf2b7 ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
