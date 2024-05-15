@@ -148,7 +148,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Generative AI: Elevate your Software Development Career ( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
     * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
  
-* IBM IT Scrum Master Professional Certificate
+* IBM IT Scrum Master Professional Certificate ( https://coursera.org/share/72333dab635922264380964f4fdc2ebb ) 🔷
     * Introduction to Scrum Master Profession ( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
     * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
     * Introduction to DevOps ( https://coursera.org/share/1fd11394c0834e28ff6cbbfa86a8928a ) 🔷
