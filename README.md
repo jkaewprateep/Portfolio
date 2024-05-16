@@ -71,35 +71,35 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### UNIVERSITY OF MICHIGAN ###
-* Applied Data Science with Python ( https://coursera.org/share/99b989f079284ca6cae2bb8981f58dfa )🔶🔷
-   * Introduction to Data Science in Python ( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
-   * Applied Plotting, Charting & Data Representation in Python ( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
-   * Applied Text Mining in Python ( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
-   * Applied Machine Learning in Python ( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
-   * Applied Social Network Analysis in Python ( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
+* Applied Data Science with Python [MICHIGAN]( https://coursera.org/share/99b989f079284ca6cae2bb8981f58dfa )🔶🔷
+   * Introduction to Data Science in Python [MICHIGAN]( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
+   * Applied Plotting, Charting & Data Representation in Python [MICHIGAN]( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
+   * Applied Text Mining in Python [MICHIGAN]( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
+   * Applied Machine Learning in Python [MICHIGAN]( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
+   * Applied Social Network Analysis in Python [MICHIGAN]( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
  
-* Python 3 Programming Specialization ( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) 🔶
-   * Python Basics ( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
-   * Python Functions, Files, and Dictionaries ( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
-   * Data Collection and Processing with Python ( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
-   * Python Classes and Inheritance ( https://coursera.org/share/03c8405ed0c7bfc56cb84491e97dd040 ) 🔶
-   * Python Project: pillow, tesseract, and opencv ( https://coursera.org/share/36cca869479e745d4437012bab6ab546 ) 🔶
-* Translational Science Specialization ( https://coursera.org/share/4fc3fb5d00609275a56f6feba64269f1 ) 🔷
-   * Introduction to translational Science ( https://coursera.org/share/b52b5a85df6039b40940d8747c21910c ) 🔷
-   * Translating Basic Research into Research for Humans ( https://coursera.org/share/e25cf2387283f84e9bc31967a8a15815 ) 🔷
-   * Translating Research to Patients ( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
-   * Translating Research to Communities ( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
-   * Translating Research to Healthcare Policy ( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
+* Python 3 Programming Specialization [MICHIGAN]( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) 🔶
+   * Python Basics [MICHIGAN]( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
+   * Python Functions, Files, and Dictionaries [MICHIGAN]( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
+   * Data Collection and Processing with Python [MICHIGAN]( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
+   * Python Classes and Inheritance [MICHIGAN]( https://coursera.org/share/03c8405ed0c7bfc56cb84491e97dd040 ) 🔶
+   * Python Project: pillow, tesseract, and opencv [MICHIGAN]( https://coursera.org/share/36cca869479e745d4437012bab6ab546 ) 🔶
+* Translational Science Specialization [MICHIGAN]( https://coursera.org/share/4fc3fb5d00609275a56f6feba64269f1 ) 🔷
+   * Introduction to translational Science [MICHIGAN]( https://coursera.org/share/b52b5a85df6039b40940d8747c21910c ) 🔷
+   * Translating Basic Research into Research for Humans [MICHIGAN]( https://coursera.org/share/e25cf2387283f84e9bc31967a8a15815 ) 🔷
+   * Translating Research to Patients [MICHIGAN]( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
+   * Translating Research to Communities [MICHIGAN]( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
+   * Translating Research to Healthcare Policy [MICHIGAN]( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
-* IBM Data Science ( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷
-* IBM Data Analyst Professional Certificate ( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 ) 🔷
-* IBM Data Science Fundamentals with Python and SQL ( https://coursera.org/share/9337522810d0d175124145361c1d0ffe ) 🔷
-* IBM Data Analytics with Excel and R Specialization ( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
-* IBM AI Engineering ( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
-* IBM Applied DevOps Engineering ( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
-* IBM Data Warehouse Engineer Professional Certificate ( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷
+* IBM Data Science [IBM]( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷
+* IBM Data Analyst Professional Certificate [IBM]( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 ) 🔷
+* IBM Data Science Fundamentals with Python and SQL [IBM]( https://coursera.org/share/9337522810d0d175124145361c1d0ffe ) 🔷
+* IBM Data Analytics with Excel and R Specialization [IBM]( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
+* IBM AI Engineering [IBM]( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
+* IBM Applied DevOps Engineering [IBM]( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
+* IBM Data Warehouse Engineer Professional Certificate [IBM]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷
     * Introduction to Data Engineering [IBM](https://www.coursera.org/account/accomplishments/certificate/ASDNH5VMX8XE) 🔷
     * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷
     * SQL: A Practical Introduction for Querying Databases [IBM](https://www.coursera.org/account/accomplishments/certificate/H2JJHMZF3VS9) 🔶
@@ -112,7 +112,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Introduction to Big Data with Spark and Hadoop [IBM](https://coursera.org/share/fd93e10f06624a6dc88cbdde06572d33) 🔶
     * Machine Learning with Apache Spark [IBM](https://coursera.org/share/c4e4e8eebe509e4d7c0267777bc08ecf) 🔶
     * Data Engineering Capstone Project [IBM](https://coursera.org/share/09a88be89db7dee5b67f1c7b2e380689) 🔶
-* IBM Back-end JavaScript Developer Professional Certificate ( https://coursera.org/share/5301020a4424c13a9bfa6619cc54a6b8 )🔶🔷
+* IBM Back-end JavaScript Developer Professional Certificate [IBM]( https://coursera.org/share/5301020a4424c13a9bfa6619cc54a6b8 )🔶🔷
     * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
     * Introduction to HTML, CSS, & JavaScript [IBM](https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d) 🔶🔷
     * Getting Started with Git and GitHub [IBM](https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737) 🔶
@@ -124,39 +124,39 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
     * JavaScript Back-End Capstone Project [IBM](https://coursera.org/share/dbba78f387463ffc3fcab72501bbff6b)🔶🔷
     * Software Developer Career Guide and Interview Preparation [IBM](https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965) 🔷
-* IBM Front-End Developer Professional Certificate ( https://coursera.org/share/b6a39450002ea820b057a60286aa3356 ) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript ( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
-    * Getting Started with Git and GitHub ( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
-    * Get Started with Cloud Native, DevOps, Agile, and NoSQL ( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
-    * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Getting Started with Front-End and Web Development ( https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4 ) 🔶
-    * Designing User Interfaces and Experiences (UI/UX) ( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
-    * Developing Websites and Front-Ends with Bootstrap ( https://coursera.org/share/3b36322f10412fa68b69fe2041698c03 ) 🔶
-    * Developing Front-End Apps with React ( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
-    * Intermediate Web and Front-End Development ( https://coursera.org/share/31157f1f92eb969af3073210d64003a4 ) 🔶
-    * Front-End Development Capstone Project ( https://coursera.org/share/17e17dbc6d14f099c37cbdf04138dbf3 ) 🔶
-    * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
-* IBM AI Developer Professional Certificate ( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷
-    * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript ( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
-    * Python for Data Science, AI & Development ( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
-    * Introduction to Artificial Intelligence (AI) ( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
-    * Generative AI: Introduction and Applications ( https://coursera.org/share/7ceaf0aa58131a7ed60977ff447a3e2a ) 🔶🔷
-    * Generative AI: Prompt Engineering Basics ( https://coursera.org/share/d5d0e18010b66c33d2bcee260623edc0 ) 🔶🔷
-    * Developing AI Applications with Python and Flask ( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
-    * Building Generative AI-Powered Applications with Python ( https://coursera.org/share/a4be2242e7c09790d07b996d5b12bddb ) 🔶
-    * Generative AI: Elevate your Software Development Career ( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
-    * Software Developer Career Guide and Interview Preparation ( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
+* IBM Front-End Developer Professional Certificate [IBM]( https://coursera.org/share/b6a39450002ea820b057a60286aa3356 ) 🔶🔷
+    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
+    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
+    * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM]( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
+    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Getting Started with Front-End and Web Development [IBM]( https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4 ) 🔶
+    * Designing User Interfaces and Experiences (UI/UX) [IBM]( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
+    * Developing Websites and Front-Ends with Bootstrap [IBM]( https://coursera.org/share/3b36322f10412fa68b69fe2041698c03 ) 🔶
+    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
+    * Intermediate Web and Front-End Development [IBM]( https://coursera.org/share/31157f1f92eb969af3073210d64003a4 ) 🔶
+    * Front-End Development Capstone Project [IBM]( https://coursera.org/share/17e17dbc6d14f099c37cbdf04138dbf3 ) 🔶
+    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
+* IBM AI Developer Professional Certificate [IBM]( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷
+    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
+    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
+    * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
+    * Generative AI: Introduction and Applications [IBM]( https://coursera.org/share/7ceaf0aa58131a7ed60977ff447a3e2a ) 🔶🔷
+    * Generative AI: Prompt Engineering Basics [IBM]( https://coursera.org/share/d5d0e18010b66c33d2bcee260623edc0 ) 🔶🔷
+    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
+    * Building Generative AI-Powered Applications with Python [IBM]( https://coursera.org/share/a4be2242e7c09790d07b996d5b12bddb ) 🔶
+    * Generative AI: Elevate your Software Development Career [IBM]( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
+    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
  
-* IBM IT Scrum Master Professional Certificate ( https://coursera.org/share/72333dab635922264380964f4fdc2ebb ) 🔷
-    * Introduction to Scrum Master Profession ( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
-    * Introduction to Software Engineering ( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Introduction to DevOps ( https://coursera.org/share/1fd11394c0834e28ff6cbbfa86a8928a ) 🔷
-    * Introduction to Agile Development and Scrum ( https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa ) 🔶🔷
-    * Information Technology (IT) Fundamentals for Everyone ( https://coursera.org/share/cc26f83baa661091bb61a148bcedf2b7 ) 🔷
-    * Working as a Scrum Master ( https://coursera.org/share/30efdaa569f51d8ac0bc10225592396b ) 🔷
-    * Scrum Master Capstone ( https://coursera.org/share/1fa3b810b0cf603d98eb74f7c0bf1fca ) 🔷
-    * Practice Exam for Certified Scrum Master (CSM) Certification ( https://coursera.org/share/ee044686ced29083df3b9328265f7add ) 🔷
+* IBM IT Scrum Master Professional Certificate [IBM]( https://coursera.org/share/72333dab635922264380964f4fdc2ebb ) 🔷
+    * Introduction to Scrum Master Profession [IBM]( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
+    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Introduction to DevOps [IBM]( https://coursera.org/share/1fd11394c0834e28ff6cbbfa86a8928a ) 🔷
+    * Introduction to Agile Development and Scrum [IBM]( https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa ) 🔶🔷
+    * Information Technology (IT) Fundamentals for Everyone [IBM]( https://coursera.org/share/cc26f83baa661091bb61a148bcedf2b7 ) 🔷
+    * Working as a Scrum Master [IBM]( https://coursera.org/share/30efdaa569f51d8ac0bc10225592396b ) 🔷
+    * Scrum Master Capstone [IBM]( https://coursera.org/share/1fa3b810b0cf603d98eb74f7c0bf1fca ) 🔷
+    * Practice Exam for Certified Scrum Master (CSM) Certification [IBM]( https://coursera.org/share/ee044686ced29083df3b9328265f7add ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
@@ -171,44 +171,44 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
-* Google Project Management: Professional Certificate ( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c ) 🔷
-* Google Data Analytics Specialization ( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 ) 🔷
-* Google Advanced Data Analytics Specialization ( https://coursera.org/share/57da7e3513113927b5a73d88b6358475 ) 🔷
-* Google IT Automation with Python ( https://coursera.org/share/4ce05eb064193ff87071baedb37f1c9e ) 🔷
-* Google Cybersecurity Specialization ( https://coursera.org/share/8474ada2c0215a99f181ae1f078f3bfb ) 🔷
-* Google UX Design Specialization ( https://coursera.org/share/15f48b13d33cefb8686c2bcca579d6a8 ) 🔷
-* Google Business Intelligence Specialization ( https://coursera.org/share/4c62b008846078ee7a06bfc3ffc2b8ae ) 🔷
-* Google Digital Marketing & E-commerce ( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 ) 🔷
-* Google IT Support Specialization ( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 ) 🔷
+* Google Project Management: Professional Certificate [Google]( https://coursera.org/share/5ad0e90b914c0fffcf9f1d62044c5b9c ) 🔷
+* Google Data Analytics Specialization [Google]( https://coursera.org/share/3d15025b54bd5680458942a2d4e7c1a6 ) 🔷
+* Google Advanced Data Analytics Specialization [Google]( https://coursera.org/share/57da7e3513113927b5a73d88b6358475 ) 🔷
+* Google IT Automation with Python [Google]( https://coursera.org/share/4ce05eb064193ff87071baedb37f1c9e ) 🔷
+* Google Cybersecurity Specialization [Google]( https://coursera.org/share/8474ada2c0215a99f181ae1f078f3bfb ) 🔷
+* Google UX Design Specialization [Google]( https://coursera.org/share/15f48b13d33cefb8686c2bcca579d6a8 ) 🔷
+* Google Business Intelligence Specialization [Google]( https://coursera.org/share/4c62b008846078ee7a06bfc3ffc2b8ae ) 🔷
+* Google Digital Marketing & E-commerce [Google]( https://coursera.org/share/50f54d813655518cdc6cbb8d3ce4d684 ) 🔷
+* Google IT Support Specialization [Google]( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 ) 🔷
 
 ### Developer Certificates ###  
-* Meta Back-End Developer Professional Certificate ( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc ) 🔷
-* DeepLearning.AI TensorFlow Developer ( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
+* Meta Back-End Developer Professional Certificate [META]( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc ) 🔷
+* DeepLearning.AI TensorFlow Developer [DeepLearning.AI]( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
 
 ## META ##
-* Meta Database Engineer Professional Certificate ( https://coursera.org/share/0b7133ceaec8027d53af1c74b7d8e47d ) 🔶🔷
-    * Introduction to Databases ( https://coursera.org/share/0749feac300f720de0ff87affd80ac50 ) 🔶🔷
-    * Programming in Python ( https://coursera.org/share/1a454b9efcb601083af7d642b232eb90 ) 🔶
-    * Database Structures and Management with MySQL ( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
-    * Version Control ( https://coursera.org/share/d7356bafb6a4cfa311dc931484ce7532 ) 🔷
-    * Coding Interview Preparation ( https://coursera.org/share/00a739fa5aceef621406d41c90f55c2c ) 🔶
-    * Advanced MySQL Topics ( https://coursera.org/share/f475813ed222acfa20ff3840f5c8b358 ) 🔶
-    * Database Clients ( https://coursera.org/share/8312eab4bdcfa958f33b4314ded27072 ) 🔶
-    * Advanced Data Modeling ( https://coursera.org/share/2000e1265e6ee34d1da59506963552a0 ) 🔶
-    * Database Engineer Capstone ( https://coursera.org/share/31d87767e9bc8034ae97cedeb1d01fa1 ) 🔶
+* Meta Database Engineer Professional Certificate [META]( https://coursera.org/share/0b7133ceaec8027d53af1c74b7d8e47d ) 🔶🔷
+    * Introduction to Databases [META]( https://coursera.org/share/0749feac300f720de0ff87affd80ac50 ) 🔶🔷
+    * Programming in Python [META]( https://coursera.org/share/1a454b9efcb601083af7d642b232eb90 ) 🔶
+    * Database Structures and Management with MySQL [META]( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
+    * Version Control [META]( https://coursera.org/share/d7356bafb6a4cfa311dc931484ce7532 ) 🔷
+    * Coding Interview Preparation [META]( https://coursera.org/share/00a739fa5aceef621406d41c90f55c2c ) 🔶
+    * Advanced MySQL Topics [META]( https://coursera.org/share/f475813ed222acfa20ff3840f5c8b358 ) 🔶
+    * Database Clients [META]( https://coursera.org/share/8312eab4bdcfa958f33b4314ded27072 ) 🔶
+    * Advanced Data Modeling [META]( https://coursera.org/share/2000e1265e6ee34d1da59506963552a0 ) 🔶
+    * Database Engineer Capstone [META]( https://coursera.org/share/31d87767e9bc8034ae97cedeb1d01fa1 ) 🔶
 
 ### HackerRank Certificates ###
-* Java (Basic) ( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
-* Problem Solving (Basic) ( https://www.hackerrank.com/certificates/e96a0316dfad ) 🔶
-* Python (Basic) ( https://www.hackerrank.com/certificates/e063e97d9d72 ) 🔶
-* R (Basic) ( https://www.hackerrank.com/certificates/9554f8fcbe36 ) 🔶
-* SQL (Basic) ( https://www.hackerrank.com/certificates/bd7a00b7e48c ) 🔶
-* SQL (Intermediate) ( https://www.hackerrank.com/certificates/4f05f8fc9385 ) 🔶
-* SQL (Advance) ( https://www.hackerrank.com/certificates/f225fa371510 ) 🔶
-* REST API (Immediate) ( https://www.hackerrank.com/certificates/6e02a6153c0f ) 🔶
-* Go (Basic) Certificate ( https://www.hackerrank.com/certificates/508413586b87 ) 🔶
-* Software Engineer Intern Certificate ( https://www.hackerrank.com/certificates/facf8ca7cdc7 ) 🔷
-* JavaScript (Intermediate) Certificate ( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
+* Java (Basic) [HackerRank]( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
+* Problem Solving (Basic) [HackerRank]( https://www.hackerrank.com/certificates/e96a0316dfad ) 🔶
+* Python (Basic) [HackerRank]( https://www.hackerrank.com/certificates/e063e97d9d72 ) 🔶
+* R (Basic) [HackerRank]( https://www.hackerrank.com/certificates/9554f8fcbe36 ) 🔶
+* SQL (Basic) [HackerRank]( https://www.hackerrank.com/certificates/bd7a00b7e48c ) 🔶
+* SQL (Intermediate) [HackerRank]( https://www.hackerrank.com/certificates/4f05f8fc9385 ) 🔶
+* SQL (Advance) [HackerRank]( https://www.hackerrank.com/certificates/f225fa371510 ) 🔶
+* REST API (Immediate) [HackerRank]( https://www.hackerrank.com/certificates/6e02a6153c0f ) 🔶
+* Go (Basic) Certificate [HackerRank]( https://www.hackerrank.com/certificates/508413586b87 ) 🔶
+* Software Engineer Intern Certificate [HackerRank]( https://www.hackerrank.com/certificates/facf8ca7cdc7 ) 🔷
+* JavaScript (Intermediate) Certificate [HackerRank]( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
 
 ### LinkedIn Certificates ###
 🥺💬 Thank you LinkedIn for one month of free trials
