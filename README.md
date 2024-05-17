@@ -257,6 +257,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * META Advanced MySQL Topics - notes [Link](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md) 🔶
 * META Database Engineer project - notes [Link](https://github.com/jkaewprateep/mysql_db-project_notes/blob/main/README.md) 🔶
 * IBM Back-end JavaScript Developer - notes [Link](https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/README.md) 🔶
+* UI design with generative linear learning model from Coursera [Link]( https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/README.md )🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
