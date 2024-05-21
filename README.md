@@ -157,6 +157,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Working as a Scrum Master [IBM]( https://coursera.org/share/30efdaa569f51d8ac0bc10225592396b ) 🔷
     * Scrum Master Capstone [IBM]( https://coursera.org/share/1fa3b810b0cf603d98eb74f7c0bf1fca ) 🔷
     * Practice Exam for Certified Scrum Master (CSM) Certification [IBM]( https://coursera.org/share/ee044686ced29083df3b9328265f7add ) 🔷
+* IBM Full Stack Software Developer Professional Certificate
+    * Introduction to Cloud Computing [IBM]( https://coursera.org/share/52f2193e5e4b06cdde8f03d533418023 ) 🔷🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
