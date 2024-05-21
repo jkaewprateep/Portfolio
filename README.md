@@ -159,6 +159,14 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Practice Exam for Certified Scrum Master (CSM) Certification [IBM]( https://coursera.org/share/ee044686ced29083df3b9328265f7add ) 🔷
 * IBM Full Stack Software Developer Professional Certificate
     * Introduction to Cloud Computing [IBM]( https://coursera.org/share/52f2193e5e4b06cdde8f03d533418023 ) 🔷🔶
+    * Introduction to Web Development with HTML, CSS, JavaScript [IBM]( https://coursera.org/share/01424070b61537345ea853d4d6726f07 ) 🔷🔶
+    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
+    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
+    * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
+    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
+    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
+    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
+    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
