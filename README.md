@@ -146,8 +146,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
     * Building Generative AI-Powered Applications with Python [IBM]( https://coursera.org/share/a4be2242e7c09790d07b996d5b12bddb ) 🔶
     * Generative AI: Elevate your Software Development Career [IBM]( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
-    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
- 
+    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷 
 * IBM IT Scrum Master Professional Certificate [IBM]( https://coursera.org/share/72333dab635922264380964f4fdc2ebb ) 🔷
     * Introduction to Scrum Master Profession [IBM]( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
     * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
@@ -170,6 +169,16 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Django Application Development with SQL and Databases [IBM](https://coursera.org/share/62c72c7bb84c41eff36f6289970777da) 🔶
     * Full Stack Application Development Capstone Project [IBM](https://coursera.org/share/a80867f83f03067b9819f2d9c7e4dd9b) 🔶
     * Full Stack Software Developer Assessment [IBM](https://coursera.org/share/2d55e07900df6b96a53e2998d68ee532) 🔷
+* IBM Back-End Development Professional Certificate
+    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
+    * Hands-on Introduction to Linux Commands and Shell Scripting [IBM](https://coursera.org/share/9c0d20ef4246661611187586d975c155) 🔶
+    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
+    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
+    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
+    * Django Application Development with SQL and Databases [IBM](https://coursera.org/share/62c72c7bb84c41eff36f6289970777da) 🔶
+    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
+    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
+    * Monitoring and Observability for Development and DevOps [IBM](https://coursera.org/share/310684024259ff97c203d13eeb35f782)🔷🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
