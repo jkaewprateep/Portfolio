@@ -192,6 +192,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Designing User Interfaces and Experiences (UI/UX) [IBM]( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
 * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
 * Introduction to Scrum Master Profession [IBM]( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
+* Node.js & MongoDB Developing Back-end Database Applications [IBM]( https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f ) 🔶
   
 ### Google Professional Certificates set ###
 🥺💬 Thank you True Academy - Coursera scholarship.
