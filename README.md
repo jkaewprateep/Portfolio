@@ -226,6 +226,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Meta AR Developer Professional Certificate
     * Unity and C# basics [META](https://coursera.org/share/e3ac6a4ebeed5ca405a9bb446db75373) 🔶
     * Using AR Foundation in Unity [META](https://coursera.org/share/05709cdf85fcaf2e2b8f5edf942fae50) 🔶
+    * AR games using Vuforia SDK [META](https://coursera.org/share/c2e6a405203f68cd6e535ec0a5c9343b) 🔶 
   
 ### HackerRank Certificates ###
 * Java (Basic) [HackerRank]( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
