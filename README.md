@@ -229,6 +229,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * AR games using Vuforia SDK [META](https://coursera.org/share/c2e6a405203f68cd6e535ec0a5c9343b) 🔶
     * AR for web using JavaScript [META](https://coursera.org/share/96a9aa7c2f9f9b23bfe842b6720aeee7) 🔶
     * AR in marketing using Meta Spark [META](https://coursera.org/share/da1ddf014efbf2bd3bf30d91f8196e04) 🔶
+    * Foundations of AR [META](https://coursera.org/share/28e4f1ba42cb844136d6dd812d38de55) 🔶
   
 ### HackerRank Certificates ###
 * Java (Basic) [HackerRank]( https://www.hackerrank.com/certificates/fc991d96e16c ) 🔶
