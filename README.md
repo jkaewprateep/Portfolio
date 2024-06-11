@@ -223,7 +223,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Database Clients [META]( https://coursera.org/share/8312eab4bdcfa958f33b4314ded27072 ) 🔶
     * Advanced Data Modeling [META]( https://coursera.org/share/2000e1265e6ee34d1da59506963552a0 ) 🔶
     * Database Engineer Capstone [META]( https://coursera.org/share/31d87767e9bc8034ae97cedeb1d01fa1 ) 🔶
-* Meta AR Developer Professional Certificate
+* Meta AR Developer Professional Certificate [META](https://coursera.org/share/10c93da3356e4cc27d87da5f55775e6f)
     * Unity and C# basics [META](https://coursera.org/share/e3ac6a4ebeed5ca405a9bb446db75373) 🔶
     * Using AR Foundation in Unity [META](https://coursera.org/share/05709cdf85fcaf2e2b8f5edf942fae50) 🔶
     * AR games using Vuforia SDK [META](https://coursera.org/share/c2e6a405203f68cd6e535ec0a5c9343b) 🔶
