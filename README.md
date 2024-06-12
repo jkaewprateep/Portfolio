@@ -182,6 +182,18 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Monitoring and Observability for Development and DevOps [IBM](https://coursera.org/share/310684024259ff97c203d13eeb35f782) 🔷🔶
     * Back-end Application Development Capstone Project [IBM](https://coursera.org/share/3371e991dfa52792c8cd79f82143c2f1) 🔶
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM](https://coursera.org/share/a38741f389f566bd789db8fa6dd9dc50) 🔶🔷
+    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
+    * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM]( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
+    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
+    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
+    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
+    * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
+    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
+    * JavaScript Programming Essentials [IBM](https://coursera.org/share/1ab31e21c81ce43f69e208312ad4c945) 🔶
+    * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
+    * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
+    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
+    * JavaScript Full Stack Capstone Project [IBM]( https://coursera.org/share/83529739a59f1e88af0d59f48f230893 ) 🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
