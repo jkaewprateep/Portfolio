@@ -90,7 +90,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Translating Research to Patients [MICHIGAN]( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
    * Translating Research to Communities [MICHIGAN]( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
    * Translating Research to Healthcare Policy [MICHIGAN]( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
- 
+* Statistics with Python Specialization 
    * Understanding and Visualizing Data with Python
 
 ### IBM Certificates set ###
