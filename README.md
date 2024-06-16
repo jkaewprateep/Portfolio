@@ -76,8 +76,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Applied Plotting, Charting & Data Representation in Python [MICHIGAN]( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
    * Applied Text Mining in Python [MICHIGAN]( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
    * Applied Machine Learning in Python [MICHIGAN]( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
-   * Applied Social Network Analysis in Python [MICHIGAN]( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷
- 
+   * Applied Social Network Analysis in Python [MICHIGAN]( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷 
 * Python 3 Programming Specialization [MICHIGAN]( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) 🔶
    * Python Basics [MICHIGAN]( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
    * Python Functions, Files, and Dictionaries [MICHIGAN]( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
@@ -91,7 +90,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Translating Research to Communities [MICHIGAN]( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
    * Translating Research to Healthcare Policy [MICHIGAN]( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
 * Statistics with Python Specialization 
-   * Understanding and Visualizing Data with Python 🔶🔷
+   * Understanding and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/72ba36468d037c60ddb10d53c266c903 ) 🔶🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
