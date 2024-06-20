@@ -91,6 +91,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Translating Research to Healthcare Policy [MICHIGAN]( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
 * Statistics with Python Specialization 
    * Understanding and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/72ba36468d037c60ddb10d53c266c903 ) 🔶🔷
+   * Inferential Statistical Analysis with Python [MICHIGAN] 99% 🔶🔷
+   * Fitting Statistical Models to Data with Python [MICHIGAN]( https://coursera.org/share/3da8b7ecfc28202827d45b3dcc665a0a ) 🔶🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
