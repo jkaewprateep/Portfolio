@@ -95,6 +95,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Fitting Statistical Models to Data with Python [MICHIGAN]( https://coursera.org/share/3da8b7ecfc28202827d45b3dcc665a0a ) 🔶🔷
 * Python for Everybody Specialization
    * Programming for Everybody (Getting Started with Python) [MICHIGAN]( https://coursera.org/share/b754112299cbe1237dbea31c6283ac07 ) 🔶
+   * Python Data Structures [MICHIGAN]( https://coursera.org/share/40dc1fc54a96602d1fa24dab3fe40c2c ) 🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
