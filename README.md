@@ -93,11 +93,12 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Understanding and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/72ba36468d037c60ddb10d53c266c903 ) 🔶🔷
    * Inferential Statistical Analysis with Python [MICHIGAN]( https://coursera.org/share/c89cba12941bcc2e43541532a222f9b4 ) 🔶🔷
    * Fitting Statistical Models to Data with Python [MICHIGAN]( https://coursera.org/share/3da8b7ecfc28202827d45b3dcc665a0a ) 🔶🔷
-* Python for Everybody Specialization
+* Python for Everybody Specialization [MICHIGAN]( https://coursera.org/share/f7df1f2d18c12846bbd56e527d729b49 ) 🔶
    * Programming for Everybody (Getting Started with Python) [MICHIGAN]( https://coursera.org/share/b754112299cbe1237dbea31c6283ac07 ) 🔶
    * Python Data Structures [MICHIGAN]( https://coursera.org/share/40dc1fc54a96602d1fa24dab3fe40c2c ) 🔶
    * Python to Access Web Data [MICHIGAN]( https://coursera.org/share/250e976295fd813c667f8ec9e49fc30d ) 🔶
-   * Using Databases with Python 98% 🔶
+   * Using Databases with Python [MICHIGAN]( https://coursera.org/share/fe4f76f26de2f487e5e05439e9d5c8a0 ) 🔶
+   * Capstone: Retrieving, Processing, and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/5a4b05b071f19a79fc4c2af34ed7a961 ) 🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
