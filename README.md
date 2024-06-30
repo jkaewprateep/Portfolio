@@ -100,7 +100,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Using Databases with Python [MICHIGAN]( https://coursera.org/share/fe4f76f26de2f487e5e05439e9d5c8a0 ) 🔶
    * Capstone: Retrieving, Processing, and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/5a4b05b071f19a79fc4c2af34ed7a961 ) 🔶
 * Understanding Data: Navigating Statistics, Science, and AI Specialization
-   * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔶
+   * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔷
+   * How Science Turns Data Into Knowledge [MICHIGAN]( https://coursera.org/share/4fef2d8ab6e043b40bcce5f4a7f59a5f ) 🔷
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
