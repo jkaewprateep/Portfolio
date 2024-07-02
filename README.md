@@ -99,7 +99,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Python to Access Web Data [MICHIGAN]( https://coursera.org/share/250e976295fd813c667f8ec9e49fc30d ) 🔶
    * Using Databases with Python [MICHIGAN]( https://coursera.org/share/fe4f76f26de2f487e5e05439e9d5c8a0 ) 🔶
    * Capstone: Retrieving, Processing, and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/5a4b05b071f19a79fc4c2af34ed7a961 ) 🔶
-* Understanding Data: Navigating Statistics, Science, and AI Specialization 🔷
+* Understanding Data: Navigating Statistics, Science, and AI Specialization [MICHIGAN]( https://coursera.org/share/771181fd5993f3b0b6143e8068d79296 )🔷
    * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔷
    * How Science Turns Data Into Knowledge [MICHIGAN]( https://coursera.org/share/4fef2d8ab6e043b40bcce5f4a7f59a5f ) 🔷
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
