@@ -103,6 +103,8 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔷
    * How Science Turns Data Into Knowledge [MICHIGAN]( https://coursera.org/share/4fef2d8ab6e043b40bcce5f4a7f59a5f ) 🔷
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
+* Foundational Finance for Strategic Decision Making Specialization
+   * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
