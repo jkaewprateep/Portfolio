@@ -105,6 +105,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
 * Foundational Finance for Strategic Decision Making Specialization
    * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
+   * Advanced Concepts in Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/d27d6ce30653fa27f43d77da5956414f ) 🔷🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
