@@ -106,6 +106,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Foundational Finance for Strategic Decision Making Specialization
    * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
    * Advanced Concepts in Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/d27d6ce30653fa27f43d77da5956414f ) 🔷🔶
+   * Advanced Understanding of Stocks and Bonds [MICHIGAN]( https://coursera.org/share/8495770ce571568ffeef5bb2dc59ae4d ) 🔷🔶
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
