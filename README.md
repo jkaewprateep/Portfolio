@@ -103,7 +103,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔷
    * How Science Turns Data Into Knowledge [MICHIGAN]( https://coursera.org/share/4fef2d8ab6e043b40bcce5f4a7f59a5f ) 🔷
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
-* Foundational Finance for Strategic Decision Making Specialization
+* Foundational Finance for Strategic Decision Making Specialization [MICHIGAN]( https://coursera.org/share/48c54f7d5f976816aff2584810453748 ) 🔷🔶
    * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
    * Stocks and Bonds [MICHIGAN]( https://coursera.org/share/27539d537cfe26b29e82c07fb25ef15d ) 🔷🔶
    * Advanced Concepts in Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/d27d6ce30653fa27f43d77da5956414f ) 🔷🔶
