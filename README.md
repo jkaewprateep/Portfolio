@@ -275,6 +275,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * Software Engineer Intern Certificate [HackerRank]( https://www.hackerrank.com/certificates/facf8ca7cdc7 ) 🔷
 * JavaScript (Intermediate) Certificate [HackerRank]( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
 
+### Board ###
+* .NET FullStack Developer Specialization
+    * .Net Full Stack Foundation [Board]( https://coursera.org/share/1cdc379db966ce4946027b4e9e4dd201 ) 🔶
+
 ### LinkedIn Certificates ###
 🥺💬 Thank you LinkedIn for one month of free trials
 * Career Essentials in Data Analysis by Microsoft and LinkedIn [LinkedIn & Microsoft](https://www.linkedin.com/learning/certificates/f32afce52cb297c3dd576b586735763b5bd493a027a5a770a6ca0e2a9dd4fa94) 🔷
