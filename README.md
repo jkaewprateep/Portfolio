@@ -105,6 +105,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
 * Foundational Finance for Strategic Decision Making Specialization
    * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
+   * Stocks and Bonds [MICHIGAN]( https://coursera.org/share/27539d537cfe26b29e82c07fb25ef15d ) 🔷🔶
    * Advanced Concepts in Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/d27d6ce30653fa27f43d77da5956414f ) 🔷🔶
    * Advanced Understanding of Stocks and Bonds [MICHIGAN]( https://coursera.org/share/8495770ce571568ffeef5bb2dc59ae4d ) 🔷🔶
 
