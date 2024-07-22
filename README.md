@@ -284,7 +284,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * .NET FullStack Developer Specialization
     * .Net Full Stack Foundation [Board]( https://coursera.org/share/1cdc379db966ce4946027b4e9e4dd201 ) 🔶
     * Backend Development for .Net Full Stack 99%
-    * Frontend Development using React 99%
+    * Frontend Development using React [Board]( https://coursera.org/share/3f94e5a7bbdeb003753033adb84b5eec ) 🔶
 
 ### LinkedIn Certificates ###
 🥺💬 Thank you LinkedIn for one month of free trials
