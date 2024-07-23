@@ -281,7 +281,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 * JavaScript (Intermediate) Certificate [HackerRank]( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
 
 ### Board ###
-* .NET FullStack Developer Specialization
+* .NET FullStack Developer Specialization [Board]( https://coursera.org/share/8f7edf9199d81bb654e370fd8b5303b5 ) 🔶
     * .Net Full Stack Foundation [Board]( https://coursera.org/share/1cdc379db966ce4946027b4e9e4dd201 ) 🔶
     * Backend Development for .Net Full Stack [Board]( https://coursera.org/share/352dcee080706b841fb59ecab4981737 ) 🔶
     * Frontend Development using React [Board]( https://coursera.org/share/3f94e5a7bbdeb003753033adb84b5eec ) 🔶
