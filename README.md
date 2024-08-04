@@ -223,6 +223,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     * Generative AI: Foundation Models and Platforms [IBM]( https://coursera.org/share/957eef031ad3da9fed3cebddff77ecee ) 🔷
     * Product Management: Building AI-Powered Products [IBM]( https://coursera.org/share/65a132401bbc80164f8d137f508c672a ) 🔷
     * Generative AI: Supercharge Your Product Management Career [IBM]( https://coursera.org/share/7c1508a8afcf9f5b1dfcd1450edb101a ) 🔷
+* IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
+    * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
+    * What is Data Science? [IBM]( https://coursera.org/share/ee363caaf03578cb66fb507d7409566e ) 🔷
+    * The AI Ladder: A Framework for Deploying AI in your Enterprise [IBM]( https://coursera.org/share/36f99bcb3d14a45a9173ba9508634fdc ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
