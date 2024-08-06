@@ -139,8 +139,8 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
-* IBM Data Science [IBM]( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷
-* IBM Data Analyst Professional Certificate [IBM]( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 ) 🔷
+* IBM Data Science [IBM]( https://coursera.org/share/e667c92b4e326b2284d30ea4bbb4509b ) 🔷 * updated Aug 05, 2024 *
+* IBM Data Analyst Professional Certificate [IBM]( https://coursera.org/share/ad3b135c20a0b435092cac8c901b7549 ) 🔷 * updated Aug 06, 2024 *
 * IBM Data Science Fundamentals with Python and SQL [IBM]( https://coursera.org/share/9337522810d0d175124145361c1d0ffe ) 🔷
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
 * IBM AI Engineering [IBM]( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
