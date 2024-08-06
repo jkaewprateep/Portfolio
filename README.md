@@ -69,6 +69,9 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Robocup Competitions | Working activity   | Technology project and community interactions [RoboCup Thailand](https://robocupthailand.org/our-features)   |
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
+## Badges ##
+Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
+
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### UNIVERSITY OF MICHIGAN ###
 * Applied Data Science with Python [MICHIGAN]( https://coursera.org/share/99b989f079284ca6cae2bb8981f58dfa )🔶🔷
