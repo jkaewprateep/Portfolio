@@ -70,6 +70,11 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
 ## Badges ##
+<p align="center" width="100%">
+    <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_01.png"> 
+    <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_02.png"> 
+    <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_03.png"> 
+</p>
 Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
