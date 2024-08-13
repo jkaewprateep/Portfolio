@@ -146,7 +146,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://coursera.org/share/1e60b1a47d6432b2323564ffe6ddeef7 ) 🔷
 * IBM AI Engineering [IBM]( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
 * IBM Applied DevOps Engineering [IBM]( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
-* IBM Data Warehouse Engineer Professional Certificate [IBM]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷
+* IBM Data Warehouse Engineer Professional Certificate [IBM * updated Aug 14, 2024]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷
     * Introduction to Data Engineering [IBM](https://www.coursera.org/account/accomplishments/certificate/ASDNH5VMX8XE) 🔷
     * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷
     * SQL: A Practical Introduction for Querying Databases [IBM](https://www.coursera.org/account/accomplishments/certificate/H2JJHMZF3VS9) 🔶
