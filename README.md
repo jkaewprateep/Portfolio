@@ -262,6 +262,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Data Visualization and Dashboards with Excel and Cognos [IBM]( https://coursera.org/share/36a279e90526ae448130674a8181342e ) 🔷🔶
     * Introduction to Relational Databases (RDBMS) [IBM]( https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de ) 🔷🔶
     * SQL: A Practical Introduction for Querying Databases [IBM]( https://coursera.org/share/d5671d023055b28bde2bd1df1bdce2ea ) 🔷🔶
+    * Data Warehouse Fundamentals [IBM]( https://coursera.org/share/b756c60f9662fab068458c0d09749f31 ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
@@ -273,7 +274,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * Designing User Interfaces and Experiences (UI/UX) [IBM]( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
 * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
 * Introduction to Scrum Master Profession [IBM]( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
-* Data Warehouse Fundamentals [IBM]( https://coursera.org/share/b756c60f9662fab068458c0d09749f31 ) 🔷
+
 
 ### HONORS Project ###
 * Node.js & MongoDB Developing Back-end Database Applications [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Honors_01.png ) 🔶
