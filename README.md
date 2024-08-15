@@ -263,6 +263,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Introduction to Relational Databases (RDBMS) [IBM]( https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de ) 🔷🔶
     * SQL: A Practical Introduction for Querying Databases [IBM]( https://coursera.org/share/d5671d023055b28bde2bd1df1bdce2ea ) 🔷🔶
     * Data Warehouse Fundamentals [IBM]( https://coursera.org/share/b756c60f9662fab068458c0d09749f31 ) 🔷
+    * Statistical Analysis Fundamentals using Excel [IBM]( https://coursera.org/share/10e139cdd6f8ece9b561c6159469422c ) 🔷🔶
     * Getting Started with Tableau [IBM]( https://coursera.org/share/050a7ef66d5058dd899f49594b47837d ) 🔷🔶
       
 ### HONORS ###
