@@ -265,6 +265,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Data Warehouse Fundamentals [IBM]( https://coursera.org/share/b756c60f9662fab068458c0d09749f31 ) 🔷
     * Statistical Analysis Fundamentals using Excel [IBM]( https://coursera.org/share/10e139cdd6f8ece9b561c6159469422c ) 🔷🔶
     * Getting Started with Tableau [IBM]( https://coursera.org/share/050a7ef66d5058dd899f49594b47837d ) 🔷🔶
+    * Advanced Data Visualization with Tableau [IBM]( https://coursera.org/share/62a8bbcf0c32ce982c07788711acfd9e ) 🔷🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
