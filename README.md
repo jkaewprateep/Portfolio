@@ -93,6 +93,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
     <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_20.png"> 
     <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_21.png"> 
     <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_22.png"> 
+    <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_23.png">
 </p>
 
 Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
