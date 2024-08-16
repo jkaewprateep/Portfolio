@@ -256,7 +256,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
     * What is Data Science? [IBM]( https://coursera.org/share/ee363caaf03578cb66fb507d7409566e ) 🔷
     * The AI Ladder: A Framework for Deploying AI in your Enterprise [IBM]( https://coursera.org/share/36f99bcb3d14a45a9173ba9508634fdc ) 🔷
-* IBM Business Intelligence (BI) Analyst Professional Certificate 🔷🔶
+* IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
     * Business Intelligence (BI) Essentials [IBM]( https://coursera.org/share/5ecbf6afc06d5a7d539547d1fceb305d ) 🔷
     * Excel Basics for Data Analysis [IBM]( https://coursera.org/share/7d193da8ff89b191ab0effe004cf308e ) 🔷🔶
     * Data Visualization and Dashboards with Excel and Cognos [IBM]( https://coursera.org/share/36a279e90526ae448130674a8181342e ) 🔷🔶
@@ -266,6 +266,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Statistical Analysis Fundamentals using Excel [IBM]( https://coursera.org/share/10e139cdd6f8ece9b561c6159469422c ) 🔷🔶
     * Getting Started with Tableau [IBM]( https://coursera.org/share/050a7ef66d5058dd899f49594b47837d ) 🔷🔶
     * Advanced Data Visualization with Tableau [IBM]( https://coursera.org/share/62a8bbcf0c32ce982c07788711acfd9e ) 🔷🔶
+    * The Business Intelligence (BI) Analyst Capstone Project [IBM]( https://coursera.org/share/f9e329bed4be7bd410e5843e06d32a07 ) 🔷🔶
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
