@@ -148,126 +148,18 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM AI Engineering [IBM]( https://coursera.org/share/5aa35c2fd54716811508ce7d497b4d2e ) 🔷
 * IBM Applied DevOps Engineering [IBM]( https://coursera.org/share/cb9cde7f86d9e2b1ac6d6339599f509a ) 🔷
 * IBM Data Warehouse Engineer Professional Certificate [IBM * updated Aug 14, 2024]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷
-    * Introduction to Data Engineering [IBM](https://www.coursera.org/account/accomplishments/certificate/ASDNH5VMX8XE) 🔷
-    * Introduction to Relational Databases (RDBMS) [IBM](https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de) 🔷
-    * SQL: A Practical Introduction for Querying Databases [IBM](https://www.coursera.org/account/accomplishments/certificate/H2JJHMZF3VS9) 🔶
-    * Getting Started with Data Warehousing and BI Analytics [IBM](https://coursera.org/share/b756c60f9662fab068458c0d09749f31) 🔶
-    * Python Project for Data Engineering [IBM](https://coursera.org/share/96e010ad909209ffea97ba3fedde2875) 🔶
-    * Introduction to NoSQL Databases [IBM](https://coursera.org/share/5b1fdbb88e4aa751d997c62e62fc115d) 🔶
-    * Hands-on Introduction to Linux Commands and Shell Scripting [IBM](https://coursera.org/share/9c0d20ef4246661611187586d975c155) 🔶
-    * Relational Database Administration (DBA) [IBM](https://coursera.org/share/b3f5805c209e9f4752bb8add07081c0c) 🔶
-    * ETL and Data Pipelines with Shell, Airflow and Kafka [IBM](https://coursera.org/share/326f8800d94e9e9aae6f358596c479f1) 🔶
-    * Introduction to Big Data with Spark and Hadoop [IBM](https://coursera.org/share/fd93e10f06624a6dc88cbdde06572d33) 🔶
-    * Machine Learning with Apache Spark [IBM](https://coursera.org/share/c4e4e8eebe509e4d7c0267777bc08ecf) 🔶
-    * Data Engineering Capstone Project [IBM](https://coursera.org/share/09a88be89db7dee5b67f1c7b2e380689) 🔶
 * IBM Back-end JavaScript Developer Professional Certificate [IBM]( https://coursera.org/share/5301020a4424c13a9bfa6619cc54a6b8 )🔶🔷
-    * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript [IBM](https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d) 🔶🔷
-    * Getting Started with Git and GitHub [IBM](https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737) 🔶
-    * JavaScript Programming Essentials [IBM](https://coursera.org/share/1ab31e21c81ce43f69e208312ad4c945) 🔶
-    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
-    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
-    * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
-    * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM](https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b) 🔶
-    * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
-    * JavaScript Back-End Capstone Project [IBM](https://coursera.org/share/dbba78f387463ffc3fcab72501bbff6b)🔶🔷
-    * Software Developer Career Guide and Interview Preparation [IBM](https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965) 🔷
 * IBM Front-End Developer Professional Certificate [IBM]( https://coursera.org/share/b6a39450002ea820b057a60286aa3356 ) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
-    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
-    * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM]( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
-    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Getting Started with Front-End and Web Development [IBM]( https://coursera.org/share/6548f2806d06384abc1cb5448e247fe4 ) 🔶
-    * Designing User Interfaces and Experiences (UI/UX) [IBM]( https://coursera.org/share/491833e8f2a635a9e87a2cac9b19ceae ) 🔶🔷
-    * Developing Websites and Front-Ends with Bootstrap [IBM]( https://coursera.org/share/3b36322f10412fa68b69fe2041698c03 ) 🔶
-    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
-    * Intermediate Web and Front-End Development [IBM]( https://coursera.org/share/31157f1f92eb969af3073210d64003a4 ) 🔶
-    * Front-End Development Capstone Project [IBM]( https://coursera.org/share/17e17dbc6d14f099c37cbdf04138dbf3 ) 🔶
-    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
 * IBM AI Developer Professional Certificate [IBM]( https://coursera.org/share/95fa5c2bf36ea52759dcabc50e1a81b0 ) 🔶🔷
-    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
-    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
-    * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
-    * Generative AI: Introduction and Applications [IBM]( https://coursera.org/share/7ceaf0aa58131a7ed60977ff447a3e2a ) 🔶🔷
-    * Generative AI: Prompt Engineering Basics [IBM]( https://coursera.org/share/d5d0e18010b66c33d2bcee260623edc0 ) 🔶🔷
-    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
-    * Building Generative AI-Powered Applications with Python [IBM]( https://coursera.org/share/a4be2242e7c09790d07b996d5b12bddb ) 🔶
-    * Generative AI: Elevate your Software Development Career [IBM]( https://coursera.org/share/8fe5428a5c6a92925967b22b8d3edc1b ) 🔶
-    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷 
 * IBM IT Scrum Master Professional Certificate [IBM]( https://coursera.org/share/72333dab635922264380964f4fdc2ebb ) 🔷
-    * Introduction to Scrum Master Profession [IBM]( https://coursera.org/share/bcae4aef8391140ed2ee65c2438e8204 ) 🔷
-    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Introduction to DevOps [IBM]( https://coursera.org/share/1fd11394c0834e28ff6cbbfa86a8928a ) 🔷
-    * Introduction to Agile Development and Scrum [IBM]( https://coursera.org/share/d8581f450478c989ab8ddd14d71cf1fa ) 🔶🔷
-    * Information Technology (IT) Fundamentals for Everyone [IBM]( https://coursera.org/share/cc26f83baa661091bb61a148bcedf2b7 ) 🔷
-    * Working as a Scrum Master [IBM]( https://coursera.org/share/30efdaa569f51d8ac0bc10225592396b ) 🔷
-    * Scrum Master Capstone [IBM]( https://coursera.org/share/1fa3b810b0cf603d98eb74f7c0bf1fca ) 🔷
-    * Practice Exam for Certified Scrum Master (CSM) Certification [IBM]( https://coursera.org/share/ee044686ced29083df3b9328265f7add ) 🔷
 * IBM Full Stack Software Developer Professional Certificate [IBM](https://coursera.org/share/ed52c2f1e24e11d0be7d7dd3b131f0d0) 🔷🔶
-    * Introduction to Cloud Computing [IBM]( https://coursera.org/share/52f2193e5e4b06cdde8f03d533418023 ) 🔷🔶
-    * Introduction to Web Development with HTML, CSS, JavaScript [IBM]( https://coursera.org/share/01424070b61537345ea853d4d6726f07 ) 🔷🔶
-    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
-    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
-    * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
-    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
-    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
-    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
-    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
-    * Django Application Development with SQL and Databases [IBM](https://coursera.org/share/62c72c7bb84c41eff36f6289970777da) 🔶
-    * Full Stack Application Development Capstone Project [IBM](https://coursera.org/share/a80867f83f03067b9819f2d9c7e4dd9b) 🔶
-    * Full Stack Software Developer Assessment [IBM](https://coursera.org/share/2d55e07900df6b96a53e2998d68ee532) 🔷
 * IBM Back-End Development Professional Certificate [IBM](https://coursera.org/share/25e6bce3aca3bc52d46e659b8e952856) 🔷🔶
-    * Introduction to Software Engineering [IBM]( https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e ) 🔶🔷
-    * Hands-on Introduction to Linux Commands and Shell Scripting [IBM](https://coursera.org/share/9c0d20ef4246661611187586d975c155) 🔶
-    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
-    * Python for Data Science, AI & Development [IBM]( https://coursera.org/share/55356869b8eb800465d5f4eb65137716 ) 🔶
-    * Developing AI Applications with Python and Flask [IBM]( https://coursera.org/share/55e1e8a27e7565fde091918dd40ced03 ) 🔶
-    * Django Application Development with SQL and Databases [IBM](https://coursera.org/share/62c72c7bb84c41eff36f6289970777da) 🔶
-    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
-    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
-    * Application Security for Developers and DevOps Professionals [IBM](https://coursera.org/share/e6a4fdbe850eeb518b54e23661b1da81) 🔷🔶
-    * Monitoring and Observability for Development and DevOps [IBM](https://coursera.org/share/310684024259ff97c203d13eeb35f782) 🔷🔶
-    * Back-end Application Development Capstone Project [IBM](https://coursera.org/share/3371e991dfa52792c8cd79f82143c2f1) 🔶
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM](https://coursera.org/share/a38741f389f566bd789db8fa6dd9dc50) 🔶🔷
-    * Developing Front-End Apps with React [IBM]( https://coursera.org/share/a1889d8a483e3b3330cccb83ce0da5bb ) 🔶
-    * Get Started with Cloud Native, DevOps, Agile, and NoSQL [IBM]( https://coursera.org/share/d60db8d622a8495c8f08209a67261d2b ) 🔶
-    * Introduction to Containers w/ Docker, Kubernetes & OpenShift [IBM](https://coursera.org/share/3ff9c0f973cef52fc7e4d7bc5ceb9b3d) 🔶
-    * Getting Started with Git and GitHub [IBM]( https://coursera.org/share/fe2e1d0433ae71442ea03d6f913a1737 ) 🔶
-    * Software Developer Career Guide and Interview Preparation [IBM]( https://coursera.org/share/5cfe5a5eba74c9b653c3c7724af06965 ) 🔷
-    * Node.js & MongoDB: Developing Back-end Database Applications [IBM](https://coursera.org/share/87687f876f63bd5c94ac4dd9062b399f) 🔶
-    * Application Development using Microservices and Serverless [IBM](https://coursera.org/share/8c0162a8dff223b871cd68ee3c4f1596) 🔶
-    * JavaScript Programming Essentials [IBM](https://coursera.org/share/1ab31e21c81ce43f69e208312ad4c945) 🔶
-    * Developing Back-End Apps with Node.js and Express [IBM](https://coursera.org/share/a3214ffd9962efa131126f6cbc054a11) 🔶
-    * Introduction to Software Engineering [IBM](https://coursera.org/share/4950d7ef51a215445e704b47d3fc1e9e) 🔶🔷
-    * Introduction to HTML, CSS, & JavaScript [IBM]( https://coursera.org/share/0af353dfcb0e945eed85f88a512e993d ) 🔶
-    * JavaScript Full Stack Capstone Project [IBM]( https://coursera.org/share/83529739a59f1e88af0d59f48f230893 ) 🔶
 * IBM AI Product Manager Professional Certificate [IBM]( https://coursera.org/share/3c834d70b674860a709fdc9efd843e42 ) 🔶🔷
-    * Product Management: An Introduction [IBM]( https://coursera.org/share/b15f27e94a544aa1118a78720438fc15 ) 🔷
-    * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
-    * Generative AI: Introduction and Applications [IBM]( https://coursera.org/share/7ceaf0aa58131a7ed60977ff447a3e2a ) 🔶🔷
-    * Generative AI: Prompt Engineering Basics [IBM]( https://coursera.org/share/d5d0e18010b66c33d2bcee260623edc0 ) 🔶🔷
-    * Product Management: Foundations & Stakeholder Collaboration [IBM]( https://coursera.org/share/f6cb40b1553481bbad8bdb2e0894946f ) 🔷
-    * Product Management: Initial Product Strategy and Plan [IBM]( https://coursera.org/share/fc28b11ccd9eae6dc4cf1cddfdf0ab48 ) 🔷
-    * Product Management: Developing and Delivering a New Product [IBM]( https://coursera.org/share/f57ce39ee4a6ff039712675d29a69665 ) 🔷
-    * Generative AI: Foundation Models and Platforms [IBM]( https://coursera.org/share/957eef031ad3da9fed3cebddff77ecee ) 🔷
-    * Product Management: Building AI-Powered Products [IBM]( https://coursera.org/share/65a132401bbc80164f8d137f508c672a ) 🔷
-    * Generative AI: Supercharge Your Product Management Career [IBM]( https://coursera.org/share/7c1508a8afcf9f5b1dfcd1450edb101a ) 🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
-    * Introduction to Artificial Intelligence (AI) [IBM]( https://coursera.org/share/0aa21cce077e54349919573c7670b8d2 ) 🔷
-    * What is Data Science? [IBM]( https://coursera.org/share/ee363caaf03578cb66fb507d7409566e ) 🔷
-    * The AI Ladder: A Framework for Deploying AI in your Enterprise [IBM]( https://coursera.org/share/36f99bcb3d14a45a9173ba9508634fdc ) 🔷
 * IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
-    * Business Intelligence (BI) Essentials [IBM]( https://coursera.org/share/5ecbf6afc06d5a7d539547d1fceb305d ) 🔷
-    * Excel Basics for Data Analysis [IBM]( https://coursera.org/share/7d193da8ff89b191ab0effe004cf308e ) 🔷🔶
-    * Data Visualization and Dashboards with Excel and Cognos [IBM]( https://coursera.org/share/36a279e90526ae448130674a8181342e ) 🔷🔶
-    * Introduction to Relational Databases (RDBMS) [IBM]( https://coursera.org/share/2cf8d00ab2e6ff94c2847e04ecfcf7de ) 🔷🔶
-    * SQL: A Practical Introduction for Querying Databases [IBM]( https://coursera.org/share/d5671d023055b28bde2bd1df1bdce2ea ) 🔷🔶
-    * Data Warehouse Fundamentals [IBM]( https://coursera.org/share/b756c60f9662fab068458c0d09749f31 ) 🔷
-    * Statistical Analysis Fundamentals using Excel [IBM]( https://coursera.org/share/10e139cdd6f8ece9b561c6159469422c ) 🔷🔶
-    * Getting Started with Tableau [IBM]( https://coursera.org/share/050a7ef66d5058dd899f49594b47837d ) 🔷🔶
-    * Advanced Data Visualization with Tableau [IBM]( https://coursera.org/share/62a8bbcf0c32ce982c07788711acfd9e ) 🔷🔶
-    * The Business Intelligence (BI) Analyst Capstone Project [IBM]( https://coursera.org/share/f9e329bed4be7bd410e5843e06d32a07 ) 🔷🔶
+* IBM Product Manager Professional Certificate 🔷
+    * Product Management: Capstone Project [IBM]( https://coursera.org/share/26e39dfea222aa6753e4e49a86aade5c ) 🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
