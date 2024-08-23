@@ -158,8 +158,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM AI Product Manager Professional Certificate [IBM]( https://coursera.org/share/3c834d70b674860a709fdc9efd843e42 ) 🔶🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
 * IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
-* IBM Product Manager Professional Certificate 🔷
-    * Product Management: Capstone Project [IBM]( https://coursera.org/share/26e39dfea222aa6753e4e49a86aade5c ) 🔷
+* IBM Product Manager Professional Certificate [IBM]( https://coursera.org/share/8b535c786b33a53d6efcf02a9a30836c )🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
