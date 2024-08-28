@@ -280,7 +280,8 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * META database clients [Link]( https://github.com/jkaewprateep/META_database_clients/blob/main/README.md )🔷🔶
 * Basics statistics for AI machine learning study [Link]( https://github.com/jkaewprateep/Basics-statistics-for-AI-machine-learning-study/blob/main/README.md )🔷🔶
 * IBM Data Warehousing Capstone Project [Link]( https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/README.md )🔷🔶
-* IBM The Business Intelligence BI Analyst Capstone Project [Link]( https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/README.md )
+* IBM The Business Intelligence BI Analyst Capstone Project [Link]( https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/README.md ) 🔷
+* University of Michigan - Python-Classes-and-Inheritance [Link]( https://github.com/jkaewprateep/Python-Classes-and-Inheritance-University-of-Michigan/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/Screenshot%202023-12-13%20162104.png?raw=true "Title")
