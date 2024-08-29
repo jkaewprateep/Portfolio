@@ -147,7 +147,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20CSL2FQMZKATH.pdf ) 🔷
 * IBM AI Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20SX6XYWRRRNQZ.pdf ) 🔷
 * IBM Applied DevOps Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20BN7SCQV5TC75.pdf ) 🔷
-* IBM Data Warehouse Engineer Professional Certificate [IBM * updated Aug 14, 2024]( https://github.com/jkaewprateep/Certificate/blob/main/Coursera%20H4HDKPEV6VVW.pdf) 🔶🔷
+* IBM Data Warehouse Engineer Professional Certificate [IBM * updated Aug 14, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%204K7JZCI2I9XO.pdf ) 🔶🔷
 * IBM Back-end JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%208BUX52L749RU.pdf )🔶🔷
 * IBM Front-End Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%206UJS9UQ5T9XV.pdf ) 🔶🔷
 * IBM AI Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20PLRYP4UYK4T2.pdf ) 🔶🔷
