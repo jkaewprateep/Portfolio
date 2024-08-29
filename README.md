@@ -100,7 +100,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### UNIVERSITY OF MICHIGAN ###
-* Applied Data Science with Python [MICHIGAN]( https://github.com/jkaewprateep/Certificate/blob/main/Coursera%20ZG9J39MKQAXC.pdf )🔶🔷
+* Applied Data Science with Python [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20ZG9J39MKQAXC.pdf )🔶🔷
    * Introduction to Data Science in Python [MICHIGAN]( https://coursera.org/share/7b3a3b983024e05c207ba76661d8a6ef )🔶🔷
    * Applied Plotting, Charting & Data Representation in Python [MICHIGAN]( https://coursera.org/share/63a362ea11dd66ce04c7fcf1ee90822a )🔶🔷
    * Applied Text Mining in Python [MICHIGAN]( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
