@@ -143,7 +143,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Data Science [IBM updated Aug 05, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%2051QWHQ83ZSZ4.pdf ) 🔷 
 * IBM Data Analyst Professional Certificate [IBM updated Aug 06, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20NH9Y9IAG8R5Y.pdf ) 🔷
 * IBM Data Science Fundamentals with Python and SQL [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20YMV22URDCLHZ.pdf ) 🔷
-* IBM Data Engineering [IBM * updated Aug 09, 2024 ]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷 *
+* IBM Data Engineering [IBM * updated Aug 09, 2024 ]( https://github.com/jkaewprateep/Certificate/blob/main/Coursera%20H4HDKPEV6VVW.pdf ) 🔶🔷
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20CSL2FQMZKATH.pdf ) 🔷
 * IBM AI Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20SX6XYWRRRNQZ.pdf ) 🔷
 * IBM Applied DevOps Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20BN7SCQV5TC75.pdf ) 🔷
@@ -157,7 +157,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20C7XXAN39MFLY.pdf ) 🔶🔷
 * IBM AI Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20QT6UPKZRFJMV.pdf ) 🔶🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%205PO9ETGE6Z5B.pdf ) 🔷
-* IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
+* IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶 ***
 * IBM Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20W8J3NG0RU2N3.pdf )🔷
       
 ### HONORS ###
