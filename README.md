@@ -157,7 +157,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20C7XXAN39MFLY.pdf ) 🔶🔷
 * IBM AI Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20QT6UPKZRFJMV.pdf ) 🔶🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%205PO9ETGE6Z5B.pdf ) 🔷
-* IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶 ***
+* IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%200QO1U1C6S867.pdf ) 🔷🔶
 * IBM Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20W8J3NG0RU2N3.pdf )🔷
       
 ### HONORS ###
