@@ -118,11 +118,11 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
    * Translating Research to Patients [MICHIGAN]( https://coursera.org/share/276bb70999e90533d16ec52a86781818 ) 🔷
    * Translating Research to Communities [MICHIGAN]( https://coursera.org/share/7e34fb25b1dcc2b3a97acf89d46708c1 ) 🔷
    * Translating Research to Healthcare Policy [MICHIGAN]( https://coursera.org/share/ca755d2f3f8b9c062b8245d813bfd48e ) 🔷
-* Statistics with Python Specialization [MICHIGAN]( https://coursera.org/share/0c7445ac88c5b05923f937afdd64c925 ) 🔶🔷
+* Statistics with Python Specialization [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20TXAENDWUUH63.pdf ) 🔶🔷
    * Understanding and Visualizing Data with Python [MICHIGAN]( https://coursera.org/share/72ba36468d037c60ddb10d53c266c903 ) 🔶🔷
    * Inferential Statistical Analysis with Python [MICHIGAN]( https://coursera.org/share/c89cba12941bcc2e43541532a222f9b4 ) 🔶🔷
    * Fitting Statistical Models to Data with Python [MICHIGAN]( https://coursera.org/share/3da8b7ecfc28202827d45b3dcc665a0a ) 🔶🔷
-* Python for Everybody Specialization [MICHIGAN]( https://coursera.org/share/f7df1f2d18c12846bbd56e527d729b49 ) 🔶
+* Python for Everybody Specialization [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20AKE9JX5FZW4C.pdf ) 🔶
    * Programming for Everybody (Getting Started with Python) [MICHIGAN]( https://coursera.org/share/b754112299cbe1237dbea31c6283ac07 ) 🔶
    * Python Data Structures [MICHIGAN]( https://coursera.org/share/40dc1fc54a96602d1fa24dab3fe40c2c ) 🔶
    * Python to Access Web Data [MICHIGAN]( https://coursera.org/share/250e976295fd813c667f8ec9e49fc30d ) 🔶
@@ -153,8 +153,8 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM AI Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20PLRYP4UYK4T2.pdf ) 🔶🔷
 * IBM IT Scrum Master Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20T3UWHBDXDSXX.pdf ) 🔷
 * IBM Full Stack Software Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20PNBKLW7T2NED.pdf ) 🔷🔶
-* IBM Back-End Development Professional Certificate [IBM](https://coursera.org/share/25e6bce3aca3bc52d46e659b8e952856) 🔷🔶
-* IBM Full-Stack JavaScript Developer Professional Certificate [IBM](https://coursera.org/share/a38741f389f566bd789db8fa6dd9dc50) 🔶🔷
+* IBM Back-End Development Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20TFEHPZU2LP6Y.pdf ) 🔷🔶
+* IBM Full-Stack JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20C7XXAN39MFLY.pdf ) 🔶🔷
 * IBM AI Product Manager Professional Certificate [IBM]( https://coursera.org/share/3c834d70b674860a709fdc9efd843e42 ) 🔶🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
 * IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
@@ -202,7 +202,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
     * Database Clients [META]( https://coursera.org/share/8312eab4bdcfa958f33b4314ded27072 ) 🔶
     * Advanced Data Modeling [META]( https://coursera.org/share/2000e1265e6ee34d1da59506963552a0 ) 🔶
     * Database Engineer Capstone [META]( https://coursera.org/share/31d87767e9bc8034ae97cedeb1d01fa1 ) 🔶
-* Meta AR Developer Professional Certificate [META](https://coursera.org/share/10c93da3356e4cc27d87da5f55775e6f) 🔷🔶
+* Meta AR Developer Professional Certificate [META]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20T9ZTYYSXGY5H.pdf ) 🔷🔶
     * Unity and C# basics [META](https://coursera.org/share/e3ac6a4ebeed5ca405a9bb446db75373) 🔶
     * Using AR Foundation in Unity [META](https://coursera.org/share/05709cdf85fcaf2e2b8f5edf942fae50) 🔶
     * AR games using Vuforia SDK [META](https://coursera.org/share/c2e6a405203f68cd6e535ec0a5c9343b) 🔶
