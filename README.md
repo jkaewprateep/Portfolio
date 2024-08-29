@@ -132,7 +132,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
    * How to Describe Data [MICHIGAN]( https://coursera.org/share/1882d5d2fc065c38bb3e86757ebd522b ) 🔷
    * How Science Turns Data Into Knowledge [MICHIGAN]( https://coursera.org/share/4fef2d8ab6e043b40bcce5f4a7f59a5f ) 🔷
    * Decoding AI: A Deep Dive into AI Models and Predictions [MICHIGAN]( https://coursera.org/share/bdd18a5001484cb794d974d181d9735b )🔷
-* Foundational Finance for Strategic Decision Making Specialization [MICHIGAN]( https://coursera.org/share/48c54f7d5f976816aff2584810453748 ) 🔷🔶
+* Foundational Finance for Strategic Decision Making Specialization [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%204FPSWY77BV8L.pdf ) 🔷🔶
    * Introduction to Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/605da80a7c9207a60d9874766875b5c8 ) 🔷🔶
    * Stocks and Bonds [MICHIGAN]( https://coursera.org/share/27539d537cfe26b29e82c07fb25ef15d ) 🔷🔶
    * Advanced Concepts in Time Value of Money (TVM) [MICHIGAN]( https://coursera.org/share/d27d6ce30653fa27f43d77da5956414f ) 🔷🔶
@@ -155,7 +155,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Full Stack Software Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20PNBKLW7T2NED.pdf ) 🔷🔶
 * IBM Back-End Development Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20TFEHPZU2LP6Y.pdf ) 🔷🔶
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20C7XXAN39MFLY.pdf ) 🔶🔷
-* IBM AI Product Manager Professional Certificate [IBM]( https://coursera.org/share/3c834d70b674860a709fdc9efd843e42 ) 🔶🔷
+* IBM AI Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20QT6UPKZRFJMV.pdf ) 🔶🔷
 * IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
 * IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
 * IBM Product Manager Professional Certificate [IBM]( https://coursera.org/share/8b535c786b33a53d6efcf02a9a30836c )🔷
@@ -224,7 +224,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * JavaScript (Intermediate) Certificate [HackerRank]( https://www.hackerrank.com/certificates/800e05224b12 ) 🔶
 
 ### Board ###
-* .NET FullStack Developer Specialization [Board]( https://coursera.org/share/8f7edf9199d81bb654e370fd8b5303b5 ) 🔶
+* .NET FullStack Developer Specialization [Board]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%206DRYK7YS79ZT.pdf ) 🔶
     * .Net Full Stack Foundation [Board]( https://coursera.org/share/1cdc379db966ce4946027b4e9e4dd201 ) 🔶
     * Backend Development for .Net Full Stack [Board]( https://coursera.org/share/352dcee080706b841fb59ecab4981737 ) 🔶
     * Frontend Development using React [Board]( https://coursera.org/share/3f94e5a7bbdeb003753033adb84b5eec ) 🔶
