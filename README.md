@@ -143,7 +143,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Data Science [IBM updated Aug 05, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%2051QWHQ83ZSZ4.pdf ) 🔷 
 * IBM Data Analyst Professional Certificate [IBM updated Aug 06, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20NH9Y9IAG8R5Y.pdf ) 🔷
 * IBM Data Science Fundamentals with Python and SQL [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20YMV22URDCLHZ.pdf ) 🔷
-* IBM Data Engineering [IBM * updated Aug 09, 2024 ]( https://github.com/jkaewprateep/Certificate/blob/main/Coursera%20H4HDKPEV6VVW.pdf ) 🔶🔷
+* IBM Data Engineering [IBM * updated Aug 09, 2024 ]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20H4HDKPEV6VVW.pdf ) 🔶🔷
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20CSL2FQMZKATH.pdf ) 🔷
 * IBM AI Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20SX6XYWRRRNQZ.pdf ) 🔷
 * IBM Applied DevOps Engineering [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20BN7SCQV5TC75.pdf ) 🔷
