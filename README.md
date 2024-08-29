@@ -106,7 +106,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
    * Applied Text Mining in Python [MICHIGAN]( https://coursera.org/share/89b889eb21223b48a7276776c7375e70 )🔶🔷
    * Applied Machine Learning in Python [MICHIGAN]( https://coursera.org/share/4adac4b0afa6611395cfb05ccd97a6fb ) 🔶🔷
    * Applied Social Network Analysis in Python [MICHIGAN]( https://coursera.org/share/bfc32c5e7c806cff8756498a25256dce ) 🔶🔷 
-* Python 3 Programming Specialization [MICHIGAN]( https://coursera.org/share/ba047d1c5738f9bba3b08a5ac883569d ) 🔶
+* Python 3 Programming Specialization [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20RMX57XEGG9CG.pdf ) 🔶
    * Python Basics [MICHIGAN]( https://coursera.org/share/b994096bfe013268ed64f51ade5b281b ) 🔶
    * Python Functions, Files, and Dictionaries [MICHIGAN]( https://coursera.org/share/2ffdfc36dc70a0c477d72fd42d86da66 ) 🔶
    * Data Collection and Processing with Python [MICHIGAN]( https://coursera.org/share/668ad9e1be42a5bc1ddf97708a0f4194 ) 🔶
@@ -188,11 +188,11 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * Google IT Support Specialization [Google]( https://coursera.org/share/2a1949158a6dbc0af76b9743a0418819 ) 🔷
 
 ### Developer Certificates ###  
-* Meta Back-End Developer Professional Certificate [META]( https://coursera.org/share/bc30f508bcf68936d9028e9d0d6b9dfc ) 🔷
-* DeepLearning.AI TensorFlow Developer [DeepLearning.AI]( https://coursera.org/share/72d845ca7058700e2ff783ecd9e6b710 ) 🔷
+* Meta Back-End Developer Professional Certificate [META]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20FANPMLCYFSZ2.pdf ) 🔷
+* DeepLearning.AI TensorFlow Developer [DeepLearning.AI]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20HRU25ZPYYDK5.pdf ) 🔷
 
 ## META ##
-* Meta Database Engineer Professional Certificate [META]( https://coursera.org/share/0b7133ceaec8027d53af1c74b7d8e47d ) 🔶🔷
+* Meta Database Engineer Professional Certificate [META]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20VVUULL2PK26V.pdf ) 🔶🔷
     * Introduction to Databases [META]( https://coursera.org/share/0749feac300f720de0ff87affd80ac50 ) 🔶🔷
     * Programming in Python [META]( https://coursera.org/share/1a454b9efcb601083af7d642b232eb90 ) 🔶
     * Database Structures and Management with MySQL [META]( https://coursera.org/share/ad6c2e8a253ee4d31d8d55ec59361127 ) 🔶🔷
