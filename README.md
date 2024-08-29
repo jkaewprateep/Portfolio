@@ -140,8 +140,8 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
 ### IBM Certificates set ###
 🥺💬 Thank you one month learning fee from IBM and 200$ for IBM Waston and my pocket money 49$
-* IBM Data Science [IBM updated Aug 05, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20H8L6QCQXLZUW.pdf ) 🔷 
-* IBM Data Analyst Professional Certificate [IBM updated Aug 06, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%205RPLPEPG53FH.pdf ) 🔷
+* IBM Data Science [IBM updated Aug 05, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%2051QWHQ83ZSZ4.pdf ) 🔷 
+* IBM Data Analyst Professional Certificate [IBM updated Aug 06, 2024]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20NH9Y9IAG8R5Y.pdf ) 🔷
 * IBM Data Science Fundamentals with Python and SQL [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20YMV22URDCLHZ.pdf ) 🔷
 * IBM Data Engineering [IBM * updated Aug 09, 2024 ]( https://coursera.org/share/7b3eda47284a270158c979c19e543320 ) 🔶🔷 *
 * IBM Data Analytics with Excel and R Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20CSL2FQMZKATH.pdf ) 🔷
@@ -156,9 +156,9 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM Back-End Development Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20TFEHPZU2LP6Y.pdf ) 🔷🔶
 * IBM Full-Stack JavaScript Developer Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20C7XXAN39MFLY.pdf ) 🔶🔷
 * IBM AI Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20QT6UPKZRFJMV.pdf ) 🔶🔷
-* IBM AI Foundations for Business Specialization [IBM]( https://coursera.org/share/8e600aa7ef82c7deeab0f498e031df67 ) 🔷
+* IBM AI Foundations for Business Specialization [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%205PO9ETGE6Z5B.pdf ) 🔷
 * IBM Business Intelligence (BI) Analyst Professional Certificate [IBM]( https://coursera.org/share/e14aac19af63f7a7b05fb2b5cb74f275 ) 🔷🔶
-* IBM Product Manager Professional Certificate [IBM]( https://coursera.org/share/8b535c786b33a53d6efcf02a9a30836c )🔷
+* IBM Product Manager Professional Certificate [IBM]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20W8J3NG0RU2N3.pdf )🔷
       
 ### HONORS ###
 * Deep Neural Networks with PyTorch [IBM](https://coursera.org/share/11a4364b43422a6c1beaea9781f1756c) 🔶
