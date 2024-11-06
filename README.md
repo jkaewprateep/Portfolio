@@ -288,6 +288,7 @@ Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 * IBM - Building Generative AI-Powered Applications with Python [Link]( https://github.com/jkaewprateep/IBM---Building-Generative-AI-Powered-Applications-with-Python/blob/main/README.md ) 🔷🔶
 * IBM - Node.js & MongoDB Developing Back-end Database Applications [Link]( https://github.com/jkaewprateep/IBM---Node.js-MongoDB-Developing-Back-end-Database-Applications/blob/main/README.md ) 🔷
 * Python-HTTP-simple [Link]( https://github.com/jkaewprateep/Python-HTTP-simple/blob/main/README.md ) 🔷🔶
+* Simple_Tensorflow_sequentialdata [Link]( https://github.com/jkaewprateep/Simple_Tensorflow_sequentialdata/blob/main/README.md ) 🔷🔶
 * Books [Links]( https://github.com/jkaewprateep/Reading-notes/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
