@@ -98,6 +98,12 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
+<p align="center" width="100%">
+    <img width="99.9%" src="https://github.com/jkaewprateep/Portfolio/blob/main/hackerranks_badges.png">  
+</p>
+
+HackerRanks [hackerranks]( https://www.hackerrank.com/profile/jkaewprateep )
+
 ## Certificates ( 🔷 Skills set, 🔶 Programming ) ##
 ### UNIVERSITY OF MICHIGAN ###
 * Applied Data Science with Python [MICHIGAN]( https://github.com/jkaewprateep/Portfolio/blob/main/Coursera%20ZG9J39MKQAXC.pdf )🔶🔷
