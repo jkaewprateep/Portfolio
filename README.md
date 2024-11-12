@@ -99,7 +99,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 Credly [credly]( https://www.credly.com/users/jirayu-kaewprateep.5a48ac9f )
 
 <p align="center" width="100%">
-    <img width="99.9%" src="https://github.com/jkaewprateep/Portfolio/blob/main/hackerranks_badges_20241112.png">  
+    <img width="99.9%" src="https://github.com/jkaewprateep/Portfolio/blob/main/hackerranks_badges_20241112-2.png">  
 </p>
 
 HackerRanks [hackerranks]( https://www.hackerrank.com/profile/jkaewprateep )
