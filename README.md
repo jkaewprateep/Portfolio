@@ -298,6 +298,7 @@ HackerRanks [hackerranks]( https://www.hackerrank.com/profile/jkaewprateep )
 * TF-and-JSON [Link]( https://github.com/jkaewprateep/TF-and-JSON/blob/main/README.md#tf-and-json ) 🔷🔶
 * AI-learning-camera [Link]( https://github.com/jkaewprateep/AI-learning-camera/blob/main/README.md ) 🔷🔶
 * Python_and_CURL [Link]( https://github.com/jkaewprateep/Python_and_CURL/blob/main/README.md ) 🔷🔶
+* Starting guild for Pygame AI training and play [Link]( https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/README.md ) 🔷🔶
 * Books [Links]( https://github.com/jkaewprateep/Reading-notes/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
