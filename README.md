@@ -299,6 +299,8 @@ HackerRanks [hackerranks]( https://www.hackerrank.com/profile/jkaewprateep )
 * AI-learning-camera [Link]( https://github.com/jkaewprateep/AI-learning-camera/blob/main/README.md ) 🔷🔶
 * Python_and_CURL [Link]( https://github.com/jkaewprateep/Python_and_CURL/blob/main/README.md ) 🔷🔶
 * Starting guild for Pygame AI training and play [Link]( https://github.com/jkaewprateep/starting_guide_pygames_AI/blob/main/README.md ) 🔷🔶
+* Test case with application scenarios [Link]( https://github.com/jkaewprateep/testcase-scenarios/blob/main/README.md ) 🔷🔶
+* Falcon python web services [Link]( https://github.com/jkaewprateep/Python_webservices/blob/main/README.md ) 🔷🔶
 * Books [Links]( https://github.com/jkaewprateep/Reading-notes/blob/main/README.md ) 🔷🔶
  
 ## Examples of Document works in Google Professional Courses ##
