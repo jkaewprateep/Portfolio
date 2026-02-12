@@ -71,6 +71,7 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 
 ## Degree and rewards ##
 | Degree | Description    | Type    |
+| :---:   | --- | --- |
 | Master degree | Computer engineering   | KMUTT master degree cerificate [KMUTT](https://github.com/jkaewprateep/Portfolio/blob/main/transcripts_KMUTT_2.pdf)   |
 
 ## Badges ##
