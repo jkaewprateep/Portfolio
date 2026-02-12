@@ -69,6 +69,10 @@ Sample of scripters and ICE library for outbound dialer communication, this oppo
 | Robocup Competitions | Working activity   | Technology project and community interactions [RoboCup Thailand](https://robocupthailand.org/our-features)   |
 | Answers questions | Answers questions on StackOverflow and Google Developer   | Work distribution and community interactions [jkaewprateep](https://stackoverflow.com/users/7848579/jirayu-kaewprateep)   |
 
+## Degree and rewards ##
+| Degree | Description    | Type    |
+| Master degree | Computer engineering   | KMUTT master degree cerificate [KMUTT](https://github.com/jkaewprateep/Portfolio/blob/main/transcripts_KMUTT_2.pdf)   |
+
 ## Badges ##
 <p align="center" width="100%">
     <img width="11.2%" src="https://github.com/jkaewprateep/Portfolio/blob/main/badge_01.png"> 
