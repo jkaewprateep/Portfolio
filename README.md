@@ -10,8 +10,8 @@ The dashboard is an instant requirement from customer TOYOTA-DMAP as a prototype
 
 
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/529137_10151530448111077_657248532_n.jpg "Title")
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/532937_10151530448136077_982480221_n.jpg?raw=true "Title")
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/558764_10151530448061077_2094531488_n.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/532937_10151530448136077_982480221_n.jpg "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/558764_10151530448061077_2094531488_n.jpg? "Title")
 
 ## SAMPLE OF APPLICATIONS – HIRE PURCHASE AUTO DAILER ##
 Sample of scripters and ICE library for outbound dialer communication, this opportunity project and many opportunity projects created from working with customers and they satisfied feedback we start from Compliance and survey for evaluation and customer keep continued to Asset for sales, Inquiry, Information, Hire Purchases and other financial services. The application is easy and built with META DATA communication, current they are using Oracle Sieble with communication toolbar.
