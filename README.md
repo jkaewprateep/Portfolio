@@ -17,7 +17,7 @@ The dashboard is an instant requirement from customer TOYOTA-DMAP as a prototype
 Sample of scripters and ICE library for outbound dialer communication, this opportunity project and many opportunity projects created from working with customers and they satisfied feedback we start from Compliance and survey for evaluation and customer keep continued to Asset for sales, Inquiry, Information, Hire Purchases and other financial services. The application is easy and built with META DATA communication, current they are using Oracle Sieble with communication toolbar.
 ### -	SCRIPTOR AND ICE LIBRARY FOR CUSTOMER OUTBOUND DAILER TESTER ###
 
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/242340_10150259916801077_1277375_o.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/242340_10150259916801077_1277375_o.jpg "Title")
 
 ### YouTube Samples ###
 <br>Remote logic functions, Basic math applied on FlappyBird games, Command compression and Fractional numbers in mathematics, etc follow on YouTube. ( https://www.youtube.com/@Jirayu.Kaewprateep/videos ) </br>
