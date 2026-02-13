@@ -9,7 +9,7 @@ The dashboard is an instant requirement from customer TOYOTA-DMAP as a prototype
 ### -	CUSTOMER DESIGNS ###
 
 
-![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/529137_10151530448111077_657248532_n.jpg?raw=true "Title")
+![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/529137_10151530448111077_657248532_n.jpg "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/532937_10151530448136077_982480221_n.jpg?raw=true "Title")
 ![Alt text](https://github.com/jkaewprateep/Portfolio/blob/main/558764_10151530448061077_2094531488_n.jpg?raw=true "Title")
 
